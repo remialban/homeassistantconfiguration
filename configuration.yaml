@@ -1,0 +1,18 @@
+homeassistant:
+  packages: !include_dir_named packages
+
+# Loads default set of integrations. Do not remove.
+default_config:
+
+recorder:
+  db_url: !secret db_mysql
+  auto_purge: true
+  commit_interval: 15
+
+# Text to speech
+tts:
+  - platform: google_translate
+    language: fr
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml

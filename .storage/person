@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "name": "Rivayrolle",
+        "user_id": "047a264b504d485fbd03c055fa2fd317",
+        "device_trackers": [
+          "device_tracker.bv9700pro"
+        ],
+        "id": "rivayrolle",
+        "picture": null
+      },
+      {
+        "name": "Franck",
+        "device_trackers": [
+          "device_tracker.tloswa054"
+        ],
+        "user_id": "58bcb6e14f334f5294cbbab4bc5c7960",
+        "picture": null,
+        "id": "franck"
+      },
+      {
+        "name": "Rémi",
+        "device_trackers": [
+          "device_tracker.bv9700pro"
+        ],
+        "user_id": "9fb52cfe34df4dc3944e7e0524b7130a",
+        "picture": null,
+        "id": "remi"
+      },
+      {
+        "name": "Gladys",
+        "device_trackers": [
+          "device_tracker.iphone_de_gladys"
+        ],
+        "user_id": "4ecb6be5dc3c497db37562358e95b8eb",
+        "picture": null,
+        "id": "gladys"
+      },
+      {
+        "name": "Agnès",
+        "device_trackers": [
+          "device_tracker.telephone_agnes"
+        ],
+        "user_id": "c13e84b97c514ad38fcc76f9b24a22ee",
+        "picture": null,
+        "id": "agnes"
+      },
+      {
+        "name": "RAV4",
+        "device_trackers": [],
+        "user_id": "020738ee517b4aec958c0e1c3b2e34ab",
+        "picture": null,
+        "id": "rav4"
+      }
+    ]
+  }
+}

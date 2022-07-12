@@ -1,0 +1,15 @@
+mqtt:
+  cover:
+    - command_topic: "volet-remi/action"
+      device_class: "shutter"
+      name: "Volet Rémi"
+      object_id: "volet_remi"
+      payload_close: "CLOSE"
+      payload_open: "OPEN"
+      payload_stop: "STOP"
+      state_closed: "CLOSE"
+      state_open: "OPEN"
+      state_stopped: "STOP"
+      state_closing: "CLOSE"
+      state_opening: "OPEN"
+      state_topic: "volet-remi/info-action"

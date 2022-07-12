@@ -1,0 +1,385 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace",
+  "data": {
+    "config": {
+      "title": "Maison",
+      "views": [
+        {
+          "theme": "Backend-selected",
+          "path": "default_view",
+          "title": "Home",
+          "icon": "mdi:home",
+          "badges": [
+            {
+              "entity": "person.agnes"
+            },
+            {
+              "entity": "person.franck"
+            },
+            {
+              "entity": "person.remi"
+            },
+            {
+              "entity": "person.gladys"
+            }
+          ],
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "sensor.hacs"
+              ],
+              "title": "Capteur"
+            },
+            {
+              "type": "weather-forecast",
+              "entity": "weather.maison",
+              "show_forecast": false
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "switch.cabanne_maconnerie_1",
+                "switch.cabanne_maconnerie_10",
+                "switch.cabanne_maconnerie_11",
+                "switch.cabanne_maconnerie_12",
+                "switch.cabanne_maconnerie_13",
+                "switch.cabanne_maconnerie_14",
+                "switch.cabanne_maconnerie_15",
+                "switch.cabanne_maconnerie_16",
+                "switch.cabanne_maconnerie_17",
+                "switch.cabanne_maconnerie_18",
+                "switch.cabanne_maconnerie_19",
+                "switch.cabanne_maconnerie_2",
+                "switch.cabanne_maconnerie_20",
+                "switch.cabanne_maconnerie_21",
+                "switch.cabanne_maconnerie_22",
+                "switch.cabanne_maconnerie_23",
+                "switch.cabanne_maconnerie_24",
+                "switch.cabanne_maconnerie_25",
+                "switch.cabanne_maconnerie_26",
+                "switch.cabanne_maconnerie_27",
+                "switch.cabanne_maconnerie_28",
+                "switch.cabanne_maconnerie_29",
+                "switch.cabanne_maconnerie_3",
+                "switch.cabanne_maconnerie_30",
+                "switch.cabanne_maconnerie_31",
+                "switch.cabanne_maconnerie_32",
+                "switch.cabanne_maconnerie_4",
+                "switch.cabanne_maconnerie_5",
+                "switch.cabanne_maconnerie_6",
+                "switch.cabanne_maconnerie_7",
+                "switch.cabanne_maconnerie_8",
+                "switch.cabanne_maconnerie_9"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "Salon",
+          "path": "salon",
+          "icon": "mdi:sofa",
+          "badges": [],
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "sensor.lexmark_cx417de",
+                "sensor.lexmark_cx417de_black",
+                "sensor.lexmark_cx417de_cyan",
+                "sensor.lexmark_cx417de_magenta",
+                "sensor.lexmark_cx417de_yellow"
+              ],
+              "title": "Imprimante"
+            },
+            {
+              "type": "grid",
+              "square": false,
+              "columns": 1,
+              "cards": [
+                {
+                  "type": "entities",
+                  "entities": [
+                    "remote.freebox_player"
+                  ]
+                },
+                {
+                  "type": "media-control",
+                  "entity": "media_player.freebox_player"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "Chambre gladys",
+          "path": "chambre-gladys",
+          "icon": "mdi:face-woman",
+          "badges": [],
+          "cards": [
+            {
+              "type": "grid",
+              "square": false,
+              "columns": 1,
+              "cards": [
+                {
+                  "type": "media-control",
+                  "entity": "media_player.android_tv"
+                },
+                {
+                  "type": "media-control",
+                  "entity": "media_player.android_tv_192_168_0_77"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "icon": "mdi:fridge",
+          "title": "Cellier",
+          "path": "cellier",
+          "badges": [],
+          "cards": [
+            {
+              "hours_to_show": 24,
+              "graph": "line",
+              "type": "sensor",
+              "entity": "sensor.cellier_temperature_sonde_1",
+              "detail": 1
+            },
+            {
+              "hours_to_show": 24,
+              "graph": "line",
+              "type": "sensor",
+              "entity": "sensor.cellier_temperature_sonde_2",
+              "detail": 1
+            },
+            {
+              "hours_to_show": 24,
+              "graph": "line",
+              "type": "sensor",
+              "entity": "sensor.cellier_temperature_sonde_3",
+              "detail": 1
+            },
+            {
+              "hours_to_show": 24,
+              "graph": "line",
+              "type": "sensor",
+              "entity": "sensor.cellier_temperature_sonde_4",
+              "detail": 1
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "appareils",
+          "path": "appareils",
+          "icon": "mdi:cellphone-nfc",
+          "badges": [],
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "device_tracker.tloswa054",
+                "sensor.tloswa054_activity",
+                "sensor.tloswa054_average_active_pace",
+                "sensor.tloswa054_battery_state",
+                "sensor.tloswa054_bssid",
+                "sensor.tloswa054_connection_type",
+                "sensor.tloswa054_distance",
+                "sensor.tloswa054_floors_ascended",
+                "sensor.tloswa054_floors_descended",
+                "binary_sensor.tloswa054_focus",
+                "sensor.tloswa054_geocoded_location",
+                "sensor.tloswa054_last_update_trigger",
+                "sensor.tloswa054_sim_1",
+                "sensor.tloswa054_sim_2",
+                "sensor.tloswa054_ssid",
+                "sensor.tloswa054_steps",
+                "sensor.tloswa054_storage"
+              ],
+              "title": "Franck"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "device_tracker.iphone_de_gladys",
+                "sensor.iphone_de_gladys_activity",
+                "sensor.iphone_de_gladys_average_active_pace",
+                "sensor.iphone_de_gladys_battery_state",
+                "sensor.iphone_de_gladys_bssid",
+                "sensor.iphone_de_gladys_connection_type",
+                "sensor.iphone_de_gladys_distance",
+                "sensor.iphone_de_gladys_floors_ascended",
+                "sensor.iphone_de_gladys_floors_descended",
+                "binary_sensor.iphone_de_gladys_focus",
+                "sensor.iphone_de_gladys_geocoded_location",
+                "sensor.iphone_de_gladys_last_update_trigger",
+                "sensor.iphone_de_gladys_sim_1",
+                "sensor.iphone_de_gladys_ssid",
+                "sensor.iphone_de_gladys_steps",
+                "sensor.iphone_de_gladys_storage"
+              ],
+              "title": "Gladys"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "device_tracker.bv9700pro",
+                "sensor.bv9700pro_active_notification_count",
+                "sensor.bv9700pro_app_importance",
+                "binary_sensor.bv9700pro_app_inactive",
+                "sensor.bv9700pro_app_memory",
+                "sensor.bv9700pro_app_rx_gb",
+                "sensor.bv9700pro_app_standby_bucket",
+                "sensor.bv9700pro_app_tx_gb",
+                "sensor.bv9700pro_audio_mode",
+                "sensor.bv9700pro_battery_health",
+                "sensor.bv9700pro_battery_state",
+                "sensor.bv9700pro_battery_temperature",
+                "sensor.bv9700pro_bluetooth_connection",
+                "binary_sensor.bv9700pro_bluetooth_state",
+                "sensor.bv9700pro_charger_type",
+                "sensor.bv9700pro_current_time_zone",
+                "sensor.bv9700pro_current_version",
+                "sensor.bv9700pro_detected_activity",
+                "binary_sensor.bv9700pro_device_locked",
+                "binary_sensor.bv9700pro_device_secure",
+                "sensor.bv9700pro_do_not_disturb_sensor",
+                "binary_sensor.bv9700pro_doze_mode",
+                "sensor.bv9700pro_external_storage",
+                "sensor.bv9700pro_geocoded_location",
+                "binary_sensor.bv9700pro_headphones",
+                "binary_sensor.bv9700pro_high_accuracy_mode",
+                "binary_sensor.bv9700pro_interactive",
+                "sensor.bv9700pro_internal_storage",
+                "binary_sensor.bv9700pro_is_charging",
+                "binary_sensor.bv9700pro_keyguard_locked",
+                "binary_sensor.bv9700pro_keyguard_secure",
+                "sensor.bv9700pro_last_notification",
+                "sensor.bv9700pro_last_reboot",
+                "sensor.bv9700pro_last_removed_notification",
+                "sensor.bv9700pro_last_update_trigger",
+                "sensor.bv9700pro_light_sensor",
+                "sensor.bv9700pro_media_session",
+                "binary_sensor.bv9700pro_mic_muted",
+                "binary_sensor.bv9700pro_mobile_data",
+                "binary_sensor.bv9700pro_mobile_data_roaming",
+                "sensor.bv9700pro_mobile_rx_gb",
+                "sensor.bv9700pro_mobile_tx_gb",
+                "binary_sensor.bv9700pro_music_active",
+                "sensor.bv9700pro_next_alarm",
+                "sensor.bv9700pro_phone_state",
+                "binary_sensor.bv9700pro_power_save",
+                "sensor.bv9700pro_pressure_sensor",
+                "sensor.bv9700pro_proximity_sensor",
+                "sensor.bv9700pro_public_ip_address",
+                "sensor.bv9700pro_ringer_mode",
+                "sensor.bv9700pro_sim_1",
+                "sensor.bv9700pro_sim_2",
+                "sensor.bv9700pro_sleep_confidence",
+                "sensor.bv9700pro_sleep_segment",
+                "binary_sensor.bv9700pro_speakerphone",
+                "sensor.bv9700pro_steps_sensor",
+                "sensor.bv9700pro_total_rx_gb",
+                "sensor.bv9700pro_total_tx_gb",
+                "sensor.bv9700pro_volume_level_alarm",
+                "sensor.bv9700pro_volume_level_call",
+                "sensor.bv9700pro_volume_level_music",
+                "sensor.bv9700pro_volume_level_ringer",
+                "sensor.bv9700pro_wifi_bssid",
+                "sensor.bv9700pro_wifi_connection",
+                "sensor.bv9700pro_wifi_frequency",
+                "sensor.bv9700pro_wifi_ip_address",
+                "sensor.bv9700pro_wifi_link_speed",
+                "sensor.bv9700pro_wifi_signal_strength",
+                "binary_sensor.bv9700pro_wifi_state"
+              ],
+              "title": "Rémi"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "person.agnes",
+                "device_tracker.telephone_agnes",
+                "sensor.telephone_agnes_battery_health",
+                "sensor.telephone_agnes_battery_state",
+                "sensor.telephone_agnes_battery_temperature",
+                "sensor.telephone_agnes_charger_type",
+                "binary_sensor.telephone_agnes_is_charging"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "Chambre Rémi",
+          "path": "chambre-remi",
+          "icon": "mdi:face-man",
+          "badges": [],
+          "cards": [
+            {
+              "type": "light",
+              "entity": "light.downlight_rgbw_9f1b00"
+            },
+            {
+              "type": "light",
+              "entity": "light.downlight_rgbw_9f1b64"
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "Carte",
+          "path": "carte",
+          "icon": "mdi:map-marker-radius",
+          "type": "panel",
+          "badges": [],
+          "cards": [
+            {
+              "type": "map",
+              "entities": [
+                {
+                  "entity": "person.gladys"
+                },
+                {
+                  "entity": "person.remi"
+                },
+                {
+                  "entity": "person.franck"
+                },
+                {
+                  "entity": "person.agnes"
+                },
+                {
+                  "entity": "zone.home"
+                }
+              ],
+              "dark_mode": false
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "icon": "mdi:window-shutter",
+          "title": "Volets",
+          "path": "volets",
+          "badges": [],
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "cover.volet_remi"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

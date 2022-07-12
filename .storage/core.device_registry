@@ -1,0 +1,1172 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Core",
+        "name": "Home Assistant Core",
+        "sw_version": "2022.7.3",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "36771e630fab8237b85a921d8a73280b",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "supervisor"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Supervisor",
+        "name": "Home Assistant Supervisor",
+        "sw_version": "2022.07.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "21c646eb07fd0804c91311e933663103",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "cf1cea8cfe92148a13d315931e85feea"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "met"
+          ]
+        ],
+        "manufacturer": "Met.no",
+        "model": "Forecast",
+        "name": "Forecast",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "ad6b8d6c1bd9141fa9e48330ec90c5cd",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "https://www.met.no/en"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_appdaemon"
+          ]
+        ],
+        "manufacturer": "Home Assistant Community Add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "AppDaemon",
+        "sw_version": "0.9.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "167833fd55996ffbfddbada8c0cd8d23",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/a0d7b954_appdaemon"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_logviewer"
+          ]
+        ],
+        "manufacturer": "Home Assistant Community Add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Log Viewer",
+        "sw_version": "0.14.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "4f68250e2712ea1720f53d05083eccfb",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/a0d7b954_logviewer"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_vscode"
+          ]
+        ],
+        "manufacturer": "Home Assistant Community Add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Studio Code Server",
+        "sw_version": "5.1.2",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "a8e32502b8c4abe61da5c6720e0fefa2",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/a0d7b954_vscode"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_ssh"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Terminal & SSH",
+        "sw_version": "9.6.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "586c92735b4efd9ba631e460739b1847",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_ssh"
+      },
+      {
+        "config_entries": [
+          "d461bd1dc5fc18644ca0e7f3664e6be2"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hacs",
+            "0717a0cd-745c-48fd-9b16-c8534c9704f9-bc944b0f-fd42-4a58-a072-ade38d1444cd"
+          ]
+        ],
+        "manufacturer": "hacs.xyz",
+        "model": "",
+        "name": "HACS",
+        "sw_version": "1.26.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "cc5e7612b305762c95d5fe7bdc066a98",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hacs"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_unifi"
+          ]
+        ],
+        "manufacturer": "Home Assistant Community Add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "UniFi Network Application",
+        "sw_version": "2.3.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "43abec95ddc74c82d567cb334ab0065c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/a0d7b954_unifi"
+      },
+      {
+        "config_entries": [
+          "35452d77035614ee5f69f2bf1a3f7471"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "1DACFB7F-FC80-4A7C-AA6B-067E0F98D9A0"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone11,8",
+        "name": "TLOSWA054",
+        "sw_version": "15.5",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "60622162b572ed29e7850072ca0230a9",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "ba696e0c648ab5c479694423ee4168fe"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "ipp",
+            "a32a64c5-6cdf-456e-b81f-ff1b6a6456e0"
+          ]
+        ],
+        "manufacturer": "Lexmark",
+        "model": "CX417de",
+        "name": "Lexmark CX417de",
+        "sw_version": [
+          "2.0",
+          "1.02",
+          "1.7",
+          "LW63.GM4.P641-0"
+        ],
+        "hw_version": null,
+        "entry_type": null,
+        "id": "98336c3a9b37f360dfc83cc12f0fdc64",
+        "via_device_id": null,
+        "area_id": "salon",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "8da859180dfe4e00a82803a03cbfb2c2"
+        ],
+        "connections": [
+          [
+            "mac",
+            "ac:cf:23:9f:1b:00"
+          ]
+        ],
+        "identifiers": [
+          [
+            "flux_led",
+            "8da859180dfe4e00a82803a03cbfb2c2"
+          ]
+        ],
+        "manufacturer": "Zengge",
+        "model": "Downlight RGBW (0x54)",
+        "name": "Downlight RGBW 9F1B00",
+        "sw_version": "4",
+        "hw_version": "HF-LPB100-ZJ200",
+        "entry_type": null,
+        "id": "9f5533cd7970d6b11bef994afaf452f8",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "19ab16436f07dd4eeee8a81e45c66bf3"
+        ],
+        "connections": [
+          [
+            "mac",
+            "ac:cf:23:9f:1b:64"
+          ]
+        ],
+        "identifiers": [
+          [
+            "flux_led",
+            "19ab16436f07dd4eeee8a81e45c66bf3"
+          ]
+        ],
+        "manufacturer": "Zengge",
+        "model": "Downlight RGBW (0x54)",
+        "name": "Downlight RGBW 9F1B64",
+        "sw_version": "4",
+        "hw_version": "HF-LPB100-ZJ200",
+        "entry_type": null,
+        "id": "b962944d51e44d9f614d7dddea139c95",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "1413c7a901db450d0684c19318334d1f"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "9d3f2ca9598cda54"
+          ]
+        ],
+        "manufacturer": "A-gold",
+        "model": "BV9700Pro",
+        "name": "BV9700Pro",
+        "sw_version": "28",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "e47a8fb926b55b803498dc20ba77c8df",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_samba"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Samba share",
+        "sw_version": "10.0.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "a3b5ad90aee04c25f6e6089ca2a6eb4e",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_samba"
+      },
+      {
+        "config_entries": [
+          "cb1ebf049ac66588979d431b64c32658"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "apple_tv",
+            "0024D47F56C8"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "Apple TV 3",
+        "name": "Freebox Player",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "261a99780984cbaf8ac64bcd1b6f911c",
+        "via_device_id": null,
+        "area_id": "freebox_player",
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "e19bf93ac0a7c81e2aae2c0548329b92"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "synology_dsm",
+            "1380LSN007559"
+          ]
+        ],
+        "manufacturer": "Synology",
+        "model": "DS214",
+        "name": "DISKSTATION",
+        "sw_version": "DSM 7.0.1-42218 Update 4",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "ec3e9d2f4f4458d5a65d6f179ae31abd",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "http://192.168.0.1:5000"
+      },
+      {
+        "config_entries": [
+          "e19bf93ac0a7c81e2aae2c0548329b92"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "synology_dsm",
+            "1380LSN007559_sda"
+          ]
+        ],
+        "manufacturer": "Seagate",
+        "model": "ST4000VN008-2DR166",
+        "name": "DISKSTATION (Disque 1)",
+        "sw_version": "SC60",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "886f66f5ce23eee57e29dcdfdf349eb6",
+        "via_device_id": "ec3e9d2f4f4458d5a65d6f179ae31abd",
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "http://192.168.0.1:5000"
+      },
+      {
+        "config_entries": [
+          "e19bf93ac0a7c81e2aae2c0548329b92"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "synology_dsm",
+            "1380LSN007559_sdb"
+          ]
+        ],
+        "manufacturer": "Seagate",
+        "model": "ST4000VN008-2DR166",
+        "name": "DISKSTATION (Disque 2)",
+        "sw_version": "SC60",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "66b0e489eb805341a9747dd88902021a",
+        "via_device_id": "ec3e9d2f4f4458d5a65d6f179ae31abd",
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "http://192.168.0.1:5000"
+      },
+      {
+        "config_entries": [
+          "e19bf93ac0a7c81e2aae2c0548329b92"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "synology_dsm",
+            "1380LSN007559_volume_1"
+          ]
+        ],
+        "manufacturer": "Synology",
+        "model": "DS214",
+        "name": "DISKSTATION (Volume 1)",
+        "sw_version": "DSM 7.0.1-42218 Update 4",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "a876932da7f45c5cb9a094bb7c25d276",
+        "via_device_id": "ec3e9d2f4f4458d5a65d6f179ae31abd",
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "http://192.168.0.1:5000"
+      },
+      {
+        "config_entries": [
+          "e19bf93ac0a7c81e2aae2c0548329b92"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "synology_dsm",
+            "1380LSN007559_SYNO.SurveillanceStation.Info"
+          ]
+        ],
+        "manufacturer": "Synology",
+        "model": "DS214",
+        "name": "DISKSTATION Surveillance Station",
+        "sw_version": "8.2.10-7310",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "ad3cc3c5f12428e97e14ce669c564eee",
+        "via_device_id": "ec3e9d2f4f4458d5a65d6f179ae31abd",
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "e19bf93ac0a7c81e2aae2c0548329b92"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "synology_dsm",
+            "1380LSN007559_8"
+          ]
+        ],
+        "manufacturer": null,
+        "model": "Define",
+        "name": "Test",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "558b8ccf24c6e0a017339cdae429b167",
+        "via_device_id": "ad3cc3c5f12428e97e14ce669c564eee",
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "640056a236b767a2fc14c51aeff25d8c"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:FF310001-D366-45FE-598F-E951FF310001"
+          ]
+        ],
+        "identifiers": [
+          [
+            "dlna_dmr",
+            "uuid:FF310001-D366-45FE-598F-E951FF310001"
+          ]
+        ],
+        "manufacturer": "iEAST",
+        "model": "AudioCast",
+        "name": "préau",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "9e021dda07c4016c7818852af6893788",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "63fb7d9b30dfa96c91cec6541568144d"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:igd73616d61-6a65-7374-650a-68a378640650"
+          ],
+          [
+            "mac",
+            "68:a3:78:64:06:50"
+          ]
+        ],
+        "identifiers": [
+          [
+            "upnp",
+            "uuid:igd73616d61-6a65-7374-650a-68a378640650::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
+          ]
+        ],
+        "manufacturer": "Freebox",
+        "model": "Freebox Server",
+        "name": "Freebox Server",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "d7462d7b419749e9d98091f7b8ead573",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "46f25229859245039a53876c2ff5425c"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "8CB77C45-428D-48AF-9D80-7DBA9846B11A"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone10,4",
+        "name": "iPhone de Gladys",
+        "sw_version": "15.5",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "8d1d3e4e86e566b8f802418c206dbac2",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_check_config"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Check Home Assistant configuration",
+        "sw_version": "3.11.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "8cd61a917f35fc99d8b5318ccc97760b",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_check_config"
+      },
+      {
+        "config_entries": [
+          "4f5b7cf7a9793f8947237c7f0edbb8e0"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "cast",
+            "b70e97c1185aa6fedb95314de57c4bfd"
+          ]
+        ],
+        "manufacturer": "Expressluck",
+        "model": "B UHD Android TV",
+        "name": "Android TV",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "d172a87966bda112ffa2463c17652b4c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "b2c664ce12271beb93c6f1bb59cc761e"
+        ],
+        "connections": [
+          [
+            "mac",
+            "dc:bd:7a:7f:de:aa"
+          ]
+        ],
+        "identifiers": [
+          [
+            "androidtv",
+            "dc:bd:7a:7f:de:aa"
+          ]
+        ],
+        "manufacturer": "Expressluck",
+        "model": "B UHD Android TV (Android TV)",
+        "name": "Android TV 192.168.0.77",
+        "sw_version": "9",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "8e012448d35116e0514dbf7c23ac68bc",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "f9628bb6103b72e6fe0d634d0df7a3c9"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:00000000-0000-1010-8000-3c0771d9b780"
+          ]
+        ],
+        "identifiers": [
+          [
+            "dlna_dmr",
+            "uuid:00000000-0000-1010-8000-3c0771d9b780"
+          ]
+        ],
+        "manufacturer": "Sony Corporation",
+        "model": "BLU-RAY HOME THEATRE SYSTEM",
+        "name": "BLU-RAY HOME THEATRE SYSTEM",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "97c5b01d652a3ec014c7e3882cd3223b",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "423ea876_lftp_mirror"
+          ]
+        ],
+        "manufacturer": "Michael Richard Brown's Home Assistant Add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "LFTP Mirror",
+        "sw_version": "1.0.3",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "a67be06d03642ad1ff7aef876a234b9e",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/423ea876_lftp_mirror"
+      },
+      {
+        "config_entries": [
+          "1377bec5d6fca814912958a97249a427"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "ipx800v3",
+            "cabanne_maconnerie"
+          ]
+        ],
+        "manufacturer": "GCE Electronics",
+        "model": "IPX800v3",
+        "name": "cabanne_maconnerie",
+        "sw_version": 3,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "34c6e37a970914b611ecd2f3c943c006",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "48a27bbe6bc392b3a07e0a00685da387"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:7e161f06-0d0d-11e9-99d2-d86162885b8c"
+          ]
+        ],
+        "identifiers": [
+          [
+            "dlna_dmr",
+            "uuid:7e161f06-0d0d-11e9-99d2-d86162885b8c"
+          ]
+        ],
+        "manufacturer": "Arcelik",
+        "model": "O2",
+        "name": "Grundig Vision OS (00:11:e1:5f:00:0d)",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "2d1f850d2242f3c6d39c06796df7878d",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_mariadb"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "MariaDB",
+        "sw_version": "2.5.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "03d8cea23588930a1ee58c43a67f3af6",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_mariadb"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_phpmyadmin"
+          ]
+        ],
+        "manufacturer": "Home Assistant Community Add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "phpMyAdmin",
+        "sw_version": "0.8.0",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "8a044db74a397af8f544b18e02477611",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/a0d7b954_phpmyadmin"
+      },
+      {
+        "config_entries": [
+          "f8964d7d325357ad1adc4b88cf2767f0"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "22cb094c30b4ac36"
+          ]
+        ],
+        "manufacturer": "samsung",
+        "model": "SM-A202F",
+        "name": "Téléphone Agnès",
+        "sw_version": "29",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "98a3c9c388835eb72e74b2c9e9874554",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "63d3d924fbe383e537ff29645c3ce04e"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:9af9c046-1f9f-3ff0-6994-1337e404be01"
+          ]
+        ],
+        "identifiers": [
+          [
+            "dlna_dmr",
+            "uuid:9af9c046-1f9f-3ff0-6994-1337e404be01"
+          ]
+        ],
+        "manufacturer": "Freebox SAS",
+        "model": "Freebox",
+        "name": "Freebox Player",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "4bba5290236613e2d61d9a71a84a6e02",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "b54cdb9f2472eba272d879d29c62bde1"
+        ],
+        "connections": [
+          [
+            "upnp",
+            "uuid:F00DBABE-SA5E-BABA-DADA188ED50C940C"
+          ]
+        ],
+        "identifiers": [
+          [
+            "dlna_dmr",
+            "uuid:F00DBABE-SA5E-BABA-DADA188ED50C940C"
+          ]
+        ],
+        "manufacturer": "Philips",
+        "model": "NMR",
+        "name": "TV SALON",
+        "sw_version": null,
+        "hw_version": null,
+        "entry_type": null,
+        "id": "19dc68cacc661c4096fa98d26c782da8",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "245c26c8e5c0ac203c4256c37d6c7e11"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "4196cfd63a7148ed"
+          ]
+        ],
+        "manufacturer": "sprd",
+        "model": "ums512_1h10_Natv",
+        "name": "rav4",
+        "sw_version": "29",
+        "hw_version": null,
+        "entry_type": null,
+        "id": "876d4a3a5577ee1e52aad89ac848fb1c",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": null
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_mosquitto"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name": "Mosquitto broker",
+        "sw_version": "6.1.2",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "ea5ba075be6cb58a804230dd5fb5059e",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/core_mosquitto"
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "15d21743_samba_backup"
+          ]
+        ],
+        "manufacturer": "15d21743",
+        "model": "Home Assistant Add-on",
+        "name": "Samba Backup",
+        "sw_version": "5.1.1",
+        "hw_version": null,
+        "entry_type": "service",
+        "id": "58cc0b72cafc4ef46768adfc148a06fc",
+        "via_device_id": null,
+        "area_id": null,
+        "name_by_user": null,
+        "disabled_by": null,
+        "configuration_url": "homeassistant://hassio/addon/15d21743_samba_backup"
+      }
+    ],
+    "deleted_devices": [
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_ssh"
+          ]
+        ],
+        "id": "e88e5a8c731e28bfa9a3505baa75aa49",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "ipx800v4",
+            "192.168.0.30"
+          ]
+        ],
+        "id": "7691b434f6831c8c6c7cbf3fcbe7c0a2",
+        "orphaned_timestamp": 1657447380.0508955
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "ipx800v4",
+            "pompe_piscine"
+          ]
+        ],
+        "id": "c7ac247f269163320ed448167bb5ee85",
+        "orphaned_timestamp": 1657447380.0508955
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "ipx800v4",
+            "temperature_piscine"
+          ]
+        ],
+        "id": "38b69c38ac4c536794a5486d0cda1422",
+        "orphaned_timestamp": 1657447380.0508955
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "detailed_hello_world_push",
+            "ssss_1"
+          ]
+        ],
+        "id": "7f762d1313b6fff2cabe34ebaedc9dd0",
+        "orphaned_timestamp": 1657477383.391531
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "detailed_hello_world_push",
+            "ssss_2"
+          ]
+        ],
+        "id": "317c61050457b36f798971b446e490ef",
+        "orphaned_timestamp": 1657477383.391531
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "detailed_hello_world_push",
+            "ssss_3"
+          ]
+        ],
+        "id": "c29542595f0be5f3b43abc063b79c66a",
+        "orphaned_timestamp": 1657477383.391531
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "detailed_hello_world_push",
+            "dsfgvbhjk_1"
+          ]
+        ],
+        "id": "daa24ba53dd3989a4f3111cb071f8687",
+        "orphaned_timestamp": 1657520220.9660954
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "detailed_hello_world_push",
+            "dsfgvbhjk_2"
+          ]
+        ],
+        "id": "f2f9d9c65eeb5d6cda61b3b04427bc01",
+        "orphaned_timestamp": 1657520220.9660954
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "detailed_hello_world_push",
+            "dsfgvbhjk_3"
+          ]
+        ],
+        "id": "82d1ddc1bc4380bbdc0b37da208c1bab",
+        "orphaned_timestamp": 1657520220.9660954
+      },
+      {
+        "config_entries": [],
+        "connections": [],
+        "identifiers": [
+          [
+            "ipx800v3",
+            "ipx préhaut"
+          ]
+        ],
+        "id": "4b996641d11cce861baa5cf0d33c611c",
+        "orphaned_timestamp": 1657528189.5085652
+      },
+      {
+        "config_entries": [
+          "34761d6620181e027b9e60ff4c6d8ffd"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_git_pull"
+          ]
+        ],
+        "id": "ab1d22861a5701413bc563aaeaa8653a",
+        "orphaned_timestamp": null
+      }
+    ]
+  }
+}

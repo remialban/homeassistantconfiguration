@@ -1,0 +1,608 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "34761d6620181e027b9e60ff4c6d8ffd",
+        "version": 1,
+        "domain": "hassio",
+        "title": "Supervisor",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "system",
+        "unique_id": "hassio",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f1f117d1a56604b7b4ea3600e44d4209",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "cf1cea8cfe92148a13d315931e85feea",
+        "version": 1,
+        "domain": "met",
+        "title": "Home",
+        "data": {
+          "track_home": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f1c201e0a265aba57cd0cdbde38d34da",
+        "version": 1,
+        "domain": "radio_browser",
+        "title": "Radio Browser",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d461bd1dc5fc18644ca0e7f3664e6be2",
+        "version": 1,
+        "domain": "hacs",
+        "title": "",
+        "data": {
+          "token": "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"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "35452d77035614ee5f69f2bf1a3f7471",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "TLOSWA054",
+        "data": {
+          "app_data": {
+            "push_token": "c4yGZOyr6EY-pdGgcqkR68:APA91bG4rDjp4SaUllZ4dkruz4-hLIBsjRv7TGqnjwpNup964HQQpLuqeRsPhxxKOUxrQN_w_0gEhNvQXXf2sTZxzamUU-uzJmWq_SRtiqB9cAOAPDyn1e12vwkme4_o0-8lR3sM60Vi",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "device_name": "TLOSWA054",
+          "app_version": "2022.3 (2022.358)",
+          "manufacturer": "Apple",
+          "supports_encryption": true,
+          "app_name": "Home Assistant",
+          "model": "iPhone11,8",
+          "os_version": "15.5",
+          "device_id": "1DACFB7F-FC80-4A7C-AA6B-067E0F98D9A0",
+          "app_id": "io.robbie.HomeAssistant",
+          "os_name": "iOS",
+          "webhook_id": "d4a4b288cefb3e34a021b3c0c5f519336178ffb20f38189155059019aab03a09",
+          "secret": "56179f198b25f02020d849a39ef88542e0056b868ea0b891244c417ef82d363f",
+          "user_id": "76a73ea7367744bfbf27a8685ad1de6e"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-1DACFB7F-FC80-4A7C-AA6B-067E0F98D9A0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "ba696e0c648ab5c479694423ee4168fe",
+        "version": 1,
+        "domain": "ipp",
+        "title": "Lexmark CX417de",
+        "data": {
+          "host": "192.168.0.4",
+          "port": 631,
+          "ssl": false,
+          "verify_ssl": false,
+          "base_path": "/ipp/print",
+          "name": "Lexmark CX417de",
+          "uuid": "a32a64c5-6cdf-456e-b81f-ff1b6a6456e0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "a32a64c5-6cdf-456e-b81f-ff1b6a6456e0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8da859180dfe4e00a82803a03cbfb2c2",
+        "version": 1,
+        "domain": "flux_led",
+        "title": "Downlight RGBW 9F1B00",
+        "data": {
+          "host": "192.168.0.62",
+          "model_num": 84,
+          "model_description": "Downlight RGBW",
+          "model": "HF-LPB100-ZJ200"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "dhcp",
+        "unique_id": "ac:cf:23:9f:1b:00",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "19ab16436f07dd4eeee8a81e45c66bf3",
+        "version": 1,
+        "domain": "flux_led",
+        "title": "Downlight RGBW 9F1B64",
+        "data": {
+          "host": "192.168.0.51",
+          "model_num": 84,
+          "model_description": "Downlight RGBW",
+          "model": "HF-LPB100-ZJ200"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "dhcp",
+        "unique_id": "ac:cf:23:9f:1b:64",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "e19bf93ac0a7c81e2aae2c0548329b92",
+        "version": 1,
+        "domain": "synology_dsm",
+        "title": "192.168.0.1",
+        "data": {
+          "host": "192.168.0.1",
+          "port": 5000,
+          "ssl": false,
+          "verify_ssl": false,
+          "username": "remi",
+          "password": "9K2EQUIYF",
+          "mac": [
+            "00-11-32-24-44-C9"
+          ]
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "1380LSN007559",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "cb1ebf049ac66588979d431b64c32658",
+        "version": 1,
+        "domain": "apple_tv",
+        "title": "Freebox Player",
+        "data": {
+          "name": "Freebox Player",
+          "credentials": {
+            "5": null
+          },
+          "address": "192.168.0.69",
+          "identifiers": [
+            "0024D47F56C8"
+          ]
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "0024D47F56C8",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "640056a236b767a2fc14c51aeff25d8c",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "préau",
+        "data": {
+          "url": "http://192.168.0.54:49152/description.xml",
+          "device_id": "uuid:FF310001-D366-45FE-598F-E951FF310001",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1"
+        },
+        "options": {
+          "listen_port": null,
+          "callback_url_override": null,
+          "poll_availability": false,
+          "browse_unfiltered": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:FF310001-D366-45FE-598F-E951FF310001",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8993ad9b3c35023781cbd52a8d560f1b",
+        "version": 1,
+        "domain": "dlna_dms",
+        "title": "Freebox Server",
+        "data": {
+          "url": "http://192.168.0.254:52424/device.xml",
+          "device_id": "uuid:46cd1fd1-9fd3-3741-e83e-cabc653dd170::urn:schemas-upnp-org:device:MediaServer:1",
+          "source_id": "freebox_server"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:46cd1fd1-9fd3-3741-e83e-cabc653dd170::urn:schemas-upnp-org:device:MediaServer:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "0a2b1056427f14e0035bac3a895909d8",
+        "version": 1,
+        "domain": "dlna_dms",
+        "title": "DISKSTATION",
+        "data": {
+          "url": "http://192.168.0.1:50001/desc/device.xml",
+          "device_id": "uuid:00113224-44c9-0011-c944-c94424321100::urn:schemas-upnp-org:device:MediaServer:1",
+          "source_id": "diskstation"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:00113224-44c9-0011-c944-c94424321100::urn:schemas-upnp-org:device:MediaServer:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "63fb7d9b30dfa96c91cec6541568144d",
+        "version": 1,
+        "domain": "upnp",
+        "title": "Freebox Server",
+        "data": {
+          "udn": "uuid:igd73616d61-6a65-7374-650a-68a378640650",
+          "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+          "original_udn": "uuid:igd73616d61-6a65-7374-650a-68a378640650",
+          "location": "http://192.168.0.254:5678/desc/root",
+          "mac_address": "68:a3:78:64:06:50"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:igd73616d61-6a65-7374-650a-68a378640650::urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "dbbef08dd1930052bddbcb58b232cb19",
+        "version": 1,
+        "domain": "freebox",
+        "title": "Freebox",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "skqedtih.fbxos.fr",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "01c85149bab8dd56c02d8c99077aafa5",
+        "version": 1,
+        "domain": "spotify",
+        "title": "Spotify",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4f5b7cf7a9793f8947237c7f0edbb8e0",
+        "version": 1,
+        "domain": "cast",
+        "title": "Google Cast",
+        "data": {
+          "ignore_cec": [],
+          "known_hosts": [
+            "192.168.0.77"
+          ],
+          "uuid": [],
+          "user_id": "03a6bd39bb054e3bbf3443c1511e0b17"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "cast",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b2c664ce12271beb93c6f1bb59cc761e",
+        "version": 1,
+        "domain": "androidtv",
+        "title": "192.168.0.77",
+        "data": {
+          "host": "192.168.0.77",
+          "device_class": "auto",
+          "port": 5555
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "dc:bd:7a:7f:de:aa",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a35f40e83119584dfe988d79375f3371",
+        "version": 1,
+        "domain": "dlna_dms",
+        "title": "SERVEUR",
+        "data": {
+          "url": "http://192.168.0.5:50001/",
+          "device_id": "uuid:13814000-1dd2-11b2-8000-0111320134d2::urn:schemas-upnp-org:device:MediaServer:1",
+          "source_id": "serveur"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "uuid:13814000-1dd2-11b2-8000-0111320134d2::urn:schemas-upnp-org:device:MediaServer:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f9628bb6103b72e6fe0d634d0df7a3c9",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "BLU-RAY HOME THEATRE SYSTEM",
+        "data": {
+          "url": "http://192.168.0.60:52323/dmr.xml",
+          "device_id": "uuid:00000000-0000-1010-8000-3c0771d9b780",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:00000000-0000-1010-8000-3c0771d9b780",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a016821f24d0170cf9f65d39ca9299a6",
+        "version": 1,
+        "domain": "dlna_dms",
+        "title": "BLU-RAY HOME THEATRE SYSTEM",
+        "data": {
+          "url": "http://192.168.0.60:64321/bdv-ej-ms.xml",
+          "device_id": "uuid:00000001-0000-1010-8000-3c0771d9b780::urn:schemas-upnp-org:device:MediaServer:1",
+          "source_id": "blu_ray_home_theatre_system"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:00000001-0000-1010-8000-3c0771d9b780::urn:schemas-upnp-org:device:MediaServer:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1377bec5d6fca814912958a97249a427",
+        "version": 1,
+        "domain": "ipx800v3",
+        "title": "192.168.0.3",
+        "data": {
+          "host": "192.168.0.3",
+          "name": "cabanne_maconnerie"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "63d3d924fbe383e537ff29645c3ce04e",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "Freebox Player",
+        "data": {
+          "url": "http://192.168.0.69:54243/device.xml",
+          "device_id": "uuid:9af9c046-1f9f-3ff0-6994-1337e404be01",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:9af9c046-1f9f-3ff0-6994-1337e404be01",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b54cdb9f2472eba272d879d29c62bde1",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "TV SALON",
+        "data": {
+          "url": "http://192.168.0.68:49153/nmrDescription.xml",
+          "device_id": "uuid:F00DBABE-SA5E-BABA-DADA188ED50C940C",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:F00DBABE-SA5E-BABA-DADA188ED50C940C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "48a27bbe6bc392b3a07e0a00685da387",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "Grundig Vision OS (00:11:e1:5f:00:0d)",
+        "data": {
+          "url": "http://192.168.0.80:57278/aw",
+          "device_id": "uuid:7e161f06-0d0d-11e9-99d2-d86162885b8c",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:7e161f06-0d0d-11e9-99d2-d86162885b8c",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8fc123485fa05b366f24f0bce1a1d68c",
+        "version": 1,
+        "domain": "mqtt",
+        "title": "192.168.0.13",
+        "data": {
+          "broker": "192.168.0.13",
+          "port": 1883,
+          "discovery": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1413c7a901db450d0684c19318334d1f",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "BV9700Pro",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.6.0-full (2398)",
+          "device_name": "BV9700Pro",
+          "manufacturer": "A-gold",
+          "model": "BV9700Pro",
+          "os_name": "Android",
+          "os_version": "28",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "eVdhyMQvQ26Qlizog2sm4s:APA91bEPLe4YhbaAOFTiNdtvx6wK5Hj2cooL9eZ9JCXtPFhJLLzCvOcstOHOuAoAw0jZxGIHUp8eOaNyVCC6_BJ-wOaEFKWdfy81RxwS3G49kBjtKHszWt_qwzF4Y3cw0N2qY59EanHw"
+          },
+          "device_id": "9d3f2ca9598cda54",
+          "webhook_id": "4c8b0ecba159cb080cf94584017e2921fcede4bd73bba99edaa270163cab7c48",
+          "user_id": "9fb52cfe34df4dc3944e7e0524b7130a"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-9d3f2ca9598cda54",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f8964d7d325357ad1adc4b88cf2767f0",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Téléphone Agnès",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.6.0-full (2398)",
+          "device_name": "Téléphone Agnès",
+          "manufacturer": "samsung",
+          "model": "SM-A202F",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "fbWT5CoqQzSiapkWYFi10s:APA91bEqUodVCUtvIFute_sgDca2YdtkJQljn4de1897--tt_NY4jaDcBjlMnOslnfzE7isHdwcIt_N3P8YSByL5cheA2U-U_XGtyxZqWn4387dJvP-gulGPNImFgcCTVsvtBOEes9HU"
+          },
+          "device_id": "22cb094c30b4ac36",
+          "webhook_id": "ed6da2e2454600fdb04d0d20ba021b0ad5cd7add7db453d0d9e260c49d64635d",
+          "user_id": "c13e84b97c514ad38fcc76f9b24a22ee"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-22cb094c30b4ac36",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "46f25229859245039a53876c2ff5425c",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "iPhone de Gladys",
+        "data": {
+          "app_name": "Home Assistant",
+          "os_name": "iOS",
+          "app_version": "2022.3 (2022.358)",
+          "supports_encryption": true,
+          "device_name": "iPhone de Gladys",
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "dwKfshlgOkPSkJ-RJfmgjF:APA91bFPMXmHKwh6zZHU5CEc1XlpLqAGy3zE902saxOFb5z8edm6zFK79VHo_j6XLwy3suG8sJ9sSQ0guXoCJM0RRcf2WIzFR803B_q-20wVDeGe0r1-eYpublvigp-OPTkI_Pm0nQyn"
+          },
+          "device_id": "8CB77C45-428D-48AF-9D80-7DBA9846B11A",
+          "app_id": "io.robbie.HomeAssistant",
+          "manufacturer": "Apple",
+          "model": "iPhone10,4",
+          "os_version": "15.5",
+          "webhook_id": "6f3a74699c0e9872fe621cfac12d132a83b66c764971705b5b4fdac3b42a3a25",
+          "secret": "ec0bba85b5df4a5fc5cc90c4d328b4690b78c8d4ee8ca18c21b1faa56483573b",
+          "user_id": "4ecb6be5dc3c497db37562358e95b8eb"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-8CB77C45-428D-48AF-9D80-7DBA9846B11A",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "245c26c8e5c0ac203c4256c37d6c7e11",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "rav4",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2022.6.0-full (2398)",
+          "device_name": "rav4",
+          "manufacturer": "sprd",
+          "model": "ums512_1h10_Natv",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "e2FUnRijSNyQjjCBk5LJzR:APA91bF2N3fDKkio635dJ3_ArbxxqvNncAh_H3LjsNTUfCs2OB-08K7RHBoQxZKQEGZFeOOKjppnLqJY2WYAMIG8cRKnj8m_nhsADwGE3-VDoMwvIyMfdecf4xGt8y5nJcDhTTth4DfA"
+          },
+          "device_id": "4196cfd63a7148ed",
+          "webhook_id": "318dfdaabc8d8eb62ad01e19fee90b17d9baae6890aabf1faaf90be5008560ab",
+          "user_id": "020738ee517b4aec958c0e1c3b2e34ab"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-4196cfd63a7148ed",
+        "disabled_by": null
+      }
+    ]
+  }
+}

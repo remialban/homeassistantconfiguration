@@ -1,0 +1,3399 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "person.rivayrolle",
+        "state": "home",
+        "attributes": {
+          "editable": false,
+          "id": "rivayrolle",
+          "latitude": 43.9277911,
+          "longitude": 2.1986879,
+          "gps_accuracy": 68,
+          "source": "device_tracker.bv9700pro",
+          "user_id": "047a264b504d485fbd03c055fa2fd317",
+          "friendly_name": "Rivayrolle"
+        },
+        "last_changed": "2022-07-12T06:09:52.575059+00:00",
+        "last_updated": "2022-07-12T09:27:54.053460+00:00",
+        "context": {
+          "id": "01G7RVS2E54PDKK52KWV99PNX6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.franck",
+        "state": "home",
+        "attributes": {
+          "editable": false,
+          "id": "franck",
+          "latitude": 43.927459716796875,
+          "longitude": 2.1992446176111047,
+          "gps_accuracy": 57,
+          "source": "device_tracker.tloswa054",
+          "user_id": "58bcb6e14f334f5294cbbab4bc5c7960",
+          "friendly_name": "Franck"
+        },
+        "last_changed": "2022-07-12T06:09:52.575435+00:00",
+        "last_updated": "2022-07-12T06:10:18.137443+00:00",
+        "context": {
+          "id": "01G7RGF8CSP994KGEPB0E6YNY2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.remi",
+        "state": "home",
+        "attributes": {
+          "editable": false,
+          "id": "remi",
+          "latitude": 43.9277911,
+          "longitude": 2.1986879,
+          "gps_accuracy": 68,
+          "source": "device_tracker.bv9700pro",
+          "user_id": "9fb52cfe34df4dc3944e7e0524b7130a",
+          "friendly_name": "R\u00e9mi"
+        },
+        "last_changed": "2022-07-12T06:09:52.575508+00:00",
+        "last_updated": "2022-07-12T09:27:54.053603+00:00",
+        "context": {
+          "id": "01G7RVS2E5M1621EMZ0VC58G2A",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.gladys",
+        "state": "home",
+        "attributes": {
+          "editable": false,
+          "id": "gladys",
+          "latitude": 43.927398681640625,
+          "longitude": 2.199010782412796,
+          "gps_accuracy": 24.000000000000004,
+          "source": "device_tracker.iphone_de_gladys",
+          "user_id": "4ecb6be5dc3c497db37562358e95b8eb",
+          "friendly_name": "Gladys"
+        },
+        "last_changed": "2022-07-12T06:09:52.575574+00:00",
+        "last_updated": "2022-07-12T09:11:36.674530+00:00",
+        "context": {
+          "id": "01G7RTV7Z294APGNTEX193KPCK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.agnes",
+        "state": "home",
+        "attributes": {
+          "editable": false,
+          "id": "agnes",
+          "latitude": 43.927224,
+          "longitude": 2.1991913,
+          "gps_accuracy": 13,
+          "source": "device_tracker.telephone_agnes",
+          "user_id": "c13e84b97c514ad38fcc76f9b24a22ee",
+          "friendly_name": "Agn\u00e8s"
+        },
+        "last_changed": "2022-07-12T09:23:16.158318+00:00",
+        "last_updated": "2022-07-12T11:50:07.033003+00:00",
+        "context": {
+          "id": "01G7S3XFDSBQNQ31X8MCERD31A",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_supervisor_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "2022.07.0",
+          "in_progress": false,
+          "latest_version": "2022.07.0",
+          "release_summary": null,
+          "release_url": "https://github.com/home-assistant/supervisor/releases/tag/2022.07.0",
+          "skipped_version": null,
+          "title": "Home Assistant Supervisor",
+          "entity_picture": "https://brands.home-assistant.io/hassio/icon.png",
+          "friendly_name": "Home Assistant Supervisor: Update",
+          "supported_features": 1
+        },
+        "last_changed": "2022-07-12T11:22:06.061898+00:00",
+        "last_updated": "2022-07-12T11:22:06.061898+00:00",
+        "context": {
+          "id": "01G7S2A5VD5A0MVQFZ4SGRC7RV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_core_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "2022.7.3",
+          "in_progress": false,
+          "latest_version": "2022.7.3",
+          "release_summary": null,
+          "release_url": "https://www.home-assistant.io/latest-release-notes/",
+          "skipped_version": null,
+          "title": "Home Assistant Core",
+          "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+          "friendly_name": "Home Assistant Core: Update",
+          "supported_features": 11
+        },
+        "last_changed": "2022-07-12T11:22:06.062429+00:00",
+        "last_updated": "2022-07-12T11:22:06.062429+00:00",
+        "context": {
+          "id": "01G7S2A5VECQZS8RPFWXPG27V7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.appdaemon_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "0.9.0",
+          "in_progress": false,
+          "latest_version": "0.9.0",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "AppDaemon",
+          "entity_picture": "/api/hassio/addons/a0d7b954_appdaemon/icon",
+          "friendly_name": "AppDaemon: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.062714+00:00",
+        "last_updated": "2022-07-12T11:22:06.062714+00:00",
+        "context": {
+          "id": "01G7S2A5VEJ4VMG7Z9CK41AMRQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.log_viewer_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "0.14.0",
+          "in_progress": false,
+          "latest_version": "0.14.0",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Log Viewer",
+          "entity_picture": "/api/hassio/addons/a0d7b954_logviewer/icon",
+          "friendly_name": "Log Viewer: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.062986+00:00",
+        "last_updated": "2022-07-12T11:22:06.062986+00:00",
+        "context": {
+          "id": "01G7S2A5VEMFX1D4H32A9SEQZW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.studio_code_server_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "5.1.2",
+          "in_progress": false,
+          "latest_version": "5.1.2",
+          "release_summary": "## What\u2019s changed\n\n## \u2b06\ufe0f Dependency updates\n\n- ESPHome from 2022.6.1 to 2022.6.2 @dependabot (#472)\n",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Studio Code Server",
+          "entity_picture": "/api/hassio/addons/a0d7b954_vscode/icon",
+          "friendly_name": "Studio Code Server: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.063234+00:00",
+        "last_updated": "2022-07-12T11:22:06.063234+00:00",
+        "context": {
+          "id": "01G7S2A5VFBYYSE7SPVBT6YWCQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.terminal_ssh_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "9.6.0",
+          "in_progress": false,
+          "latest_version": "9.6.0",
+          "release_summary": "# Changelog\n\n## 9.6.0\n\n**Breaking change**: RSA keys generated using the SHA-1 hash algorithm\nwere disabled by OpenSSH due to a security vulnerability. If you find\nyour RSA key does not work after update you will need to make a new key\nwith a stronger alg",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Terminal & SSH",
+          "entity_picture": "/api/hassio/addons/core_ssh/icon",
+          "friendly_name": "Terminal & SSH: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.063481+00:00",
+        "last_updated": "2022-07-12T11:22:06.063481+00:00",
+        "context": {
+          "id": "01G7S2A5VF24EQBQ77ACT3KMKB",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.unifi_network_application_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "2.3.0",
+          "in_progress": false,
+          "latest_version": "2.3.0",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "UniFi Network Application",
+          "entity_picture": "/api/hassio/addons/a0d7b954_unifi/icon",
+          "friendly_name": "UniFi Network Application: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.063701+00:00",
+        "last_updated": "2022-07-12T11:22:06.063701+00:00",
+        "context": {
+          "id": "01G7S2A5VFSPKN3PG0M2Z9SHX0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.samba_share_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "10.0.0",
+          "in_progress": false,
+          "latest_version": "10.0.0",
+          "release_summary": "# Changelog\n\n## 10.0.0\n\nBREAKING CHANGE: Don't mangle filenames\n\nBy default, Samba mangles filenames with special characters to ensure\ncompatibility with really old versions of Windows which have a very limited\ncharset for filenames. The add-on no longer ",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Samba share",
+          "entity_picture": "/api/hassio/addons/core_samba/icon",
+          "friendly_name": "Samba share: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.063937+00:00",
+        "last_updated": "2022-07-12T11:22:06.063937+00:00",
+        "context": {
+          "id": "01G7S2A5VF9TYCR4YHJ899TH4R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.check_home_assistant_configuration_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "3.11.0",
+          "in_progress": false,
+          "latest_version": "3.11.0",
+          "release_summary": "# Changelog\n\n## 3.11.0\n\nThis add-on is deprecated because it is no longer needed. Home Assistant now always starts after an update even if your config is invalid. You should do the following after an update to check for issues:\n\n1. Check persistent notifi",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Check Home Assistant configuration",
+          "entity_picture": "/api/hassio/addons/core_check_config/icon",
+          "friendly_name": "Check Home Assistant configuration: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.064188+00:00",
+        "last_updated": "2022-07-12T11:52:18.169212+00:00",
+        "context": {
+          "id": "01G7S41FFS4CA0KG9AAQ823KY4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.lftp_mirror_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "1.0.3",
+          "in_progress": false,
+          "latest_version": "1.0.3",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "LFTP Mirror",
+          "entity_picture": "/api/hassio/addons/423ea876_lftp_mirror/icon",
+          "friendly_name": "LFTP Mirror: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.064410+00:00",
+        "last_updated": "2022-07-12T11:22:06.064410+00:00",
+        "context": {
+          "id": "01G7S2A5VGQ8XDKSWJ96V0NAT7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.mariadb_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "2.5.0",
+          "in_progress": false,
+          "latest_version": "2.5.0",
+          "release_summary": "# Changelog\n\n## 2.5.0\n\n- Update alpine to 3.16 and s6 to v3\n\n## 2.4.0\n\n- Add lock capabilities during snapshot\n\n## 2.3.0\n\n- Option to grant user specific privileges for a database\n\n## 2.2.2\n\n- Update options schema for passwords\n\n## 2.2.1\n- Don't delete t",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "MariaDB",
+          "entity_picture": "/api/hassio/addons/core_mariadb/icon",
+          "friendly_name": "MariaDB: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.064684+00:00",
+        "last_updated": "2022-07-12T11:22:06.064684+00:00",
+        "context": {
+          "id": "01G7S2A5VGH34EPX42WD4XYX9R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.phpmyadmin_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "0.8.0",
+          "in_progress": false,
+          "latest_version": "0.8.0",
+          "release_summary": "## What\u2019s changed\n\n## \u2b06\ufe0f Dependency updates\n\n- \u2b06\ufe0f Upgrades add-on base image to 12.0.0 @frenck (#129)\n- \u2b06\ufe0f Upgrades phpMyAdmin to 5.2.0 @frenck (#130)\n",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "phpMyAdmin",
+          "entity_picture": "/api/hassio/addons/a0d7b954_phpmyadmin/icon",
+          "friendly_name": "phpMyAdmin: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.064886+00:00",
+        "last_updated": "2022-07-12T11:22:06.064886+00:00",
+        "context": {
+          "id": "01G7S2A5VGA482S5P88N4ZFMPH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cellier_temperature_sonde_1",
+        "state": "-19.94",
+        "attributes": {
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:fridge",
+          "friendly_name": "Temp\u00e9rature petit cong\u00e9lateur"
+        },
+        "last_changed": "2022-07-12T11:52:59.334001+00:00",
+        "last_updated": "2022-07-12T11:52:59.334001+00:00",
+        "context": {
+          "id": "01G7S42QP6WW2MN9P6S9W5YP0Y",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "-19.94",
+        "native_unit_of_measurement": "\u00b0C"
+      },
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cellier_temperature_sonde_2",
+        "state": "10.75",
+        "attributes": {
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:liquor",
+          "friendly_name": "Temp\u00e9rature cave \u00e0 vin"
+        },
+        "last_changed": "2022-07-12T11:55:00.484300+00:00",
+        "last_updated": "2022-07-12T11:55:00.484300+00:00",
+        "context": {
+          "id": "01G7S46E04JRKMHKEA275WGAP1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "10.75",
+        "native_unit_of_measurement": "\u00b0C"
+      },
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cellier_temperature_sonde_3",
+        "state": "5.50",
+        "attributes": {
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:fridge",
+          "friendly_name": "Temp\u00e9rature r\u00e9frig\u00e9rateur"
+        },
+        "last_changed": "2022-07-12T11:55:00.484746+00:00",
+        "last_updated": "2022-07-12T11:55:00.484746+00:00",
+        "context": {
+          "id": "01G7S46E04Q1R79R0NX2BS0NSJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "5.50",
+        "native_unit_of_measurement": "\u00b0C"
+      },
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cellier_temperature_sonde_4",
+        "state": "-20.81",
+        "attributes": {
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:fridge",
+          "friendly_name": "Temp\u00e9rature grand cong\u00e9lateur"
+        },
+        "last_changed": "2022-07-12T11:55:00.487937+00:00",
+        "last_updated": "2022-07-12T11:55:00.487937+00:00",
+        "context": {
+          "id": "01G7S46E07MX2GYH67FPSXGJWK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "-20.81",
+        "native_unit_of_measurement": "\u00b0C"
+      },
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_battery_level",
+        "state": "93",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-90",
+          "friendly_name": "TLOSWA054 Battery Level"
+        },
+        "last_changed": "2022-07-12T06:09:56.888647+00:00",
+        "last_updated": "2022-07-12T06:09:56.888647+00:00",
+        "context": {
+          "id": "01G7RGEKMRKYA1G201TGX11MYX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_battery_state",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-90",
+          "friendly_name": "TLOSWA054 Battery State"
+        },
+        "last_changed": "2022-07-12T06:09:56.888756+00:00",
+        "last_updated": "2022-07-12T06:09:56.888756+00:00",
+        "context": {
+          "id": "01G7RGEKMRHWPWTQSJM9QY6PP7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_storage",
+        "state": "10.83",
+        "attributes": {
+          "Available": "3,73 Go",
+          "Available (Important)": "24,23 Go",
+          "Available (Opportunistic)": "6,93 Go",
+          "Total": "63,94 Go",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "TLOSWA054 Storage"
+        },
+        "last_changed": "2022-07-12T06:09:56.888842+00:00",
+        "last_updated": "2022-07-12T06:09:56.888842+00:00",
+        "context": {
+          "id": "01G7RGEKMRX3Y74HT5Y484YDH6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_ssid",
+        "state": "RIVAYROLLE",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "TLOSWA054 SSID"
+        },
+        "last_changed": "2022-07-12T06:09:56.888920+00:00",
+        "last_updated": "2022-07-12T06:09:56.888920+00:00",
+        "context": {
+          "id": "01G7RGEKMRTYEZD75X0AGANDPX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_bssid",
+        "state": "54:78:1a:aa:16:e0",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "TLOSWA054 BSSID"
+        },
+        "last_changed": "2022-07-12T06:09:56.889000+00:00",
+        "last_updated": "2022-07-12T06:09:56.889000+00:00",
+        "context": {
+          "id": "01G7RGEKMS4WW4FKQSCX3KWC6R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "TLOSWA054 Connection Type"
+        },
+        "last_changed": "2022-07-12T06:09:56.889075+00:00",
+        "last_updated": "2022-07-12T06:09:56.889075+00:00",
+        "context": {
+          "id": "01G7RGEKMSSWKCWFCQ818FR13K",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_sim_1",
+        "state": "Orange France",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000001",
+          "Carrier Name": "Orange France",
+          "Current Radio Technology": "Long-Term Evolution (LTE)",
+          "ISO Country Code": "fr",
+          "Mobile Country Code": "208",
+          "Mobile Network Code": "01",
+          "icon": "mdi:sim",
+          "friendly_name": "TLOSWA054 SIM 1"
+        },
+        "last_changed": "2022-07-12T06:09:56.889169+00:00",
+        "last_updated": "2022-07-12T06:09:56.889169+00:00",
+        "context": {
+          "id": "01G7RGEKMSZ4TG8VKMN9HFA2D4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_sim_2",
+        "state": "Free",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000002",
+          "Carrier Name": "Free",
+          "Current Radio Technology": "Long-Term Evolution (LTE)",
+          "ISO Country Code": "fr",
+          "Mobile Country Code": "208",
+          "Mobile Network Code": "15",
+          "icon": "mdi:sim",
+          "friendly_name": "TLOSWA054 SIM 2"
+        },
+        "last_changed": "2022-07-12T06:09:56.889254+00:00",
+        "last_updated": "2022-07-12T06:09:56.889254+00:00",
+        "context": {
+          "id": "01G7RGEKMSGA8NGBXNZ25V8RYV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_geocoded_location",
+        "state": "6 Chemin de la Rivayrolle\n81000 Albi\nFrance",
+        "attributes": {
+          "Administrative Area": "Occitanie",
+          "Areas Of Interest": "N/A",
+          "Country": "France",
+          "Inland Water": "N/A",
+          "ISO Country Code": "FR",
+          "Locality": "Albi",
+          "Location": [
+            43.927459716796875,
+            2.1992446176111047
+          ],
+          "Name": "6 Chemin de la Rivayrolle",
+          "Ocean": "N/A",
+          "Postal Code": "81000",
+          "Sub Administrative Area": "Tarn",
+          "Sub Locality": "N/A",
+          "Sub Thoroughfare": "6",
+          "Thoroughfare": "Chemin de la Rivayrolle",
+          "Time Zone": "Europe/Paris",
+          "Zones": [
+            "Maison"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "TLOSWA054 Geocoded Location"
+        },
+        "last_changed": "2022-07-12T06:09:56.889340+00:00",
+        "last_updated": "2022-07-12T06:09:56.889340+00:00",
+        "context": {
+          "id": "01G7RGEKMSVFMPV050DT2HYMHC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_last_update_trigger",
+        "state": "Significant Location Change",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "TLOSWA054 Last Update Trigger"
+        },
+        "last_changed": "2022-07-12T06:09:56.889424+00:00",
+        "last_updated": "2022-07-12T06:09:56.889424+00:00",
+        "context": {
+          "id": "01G7RGEKMSKQ616HVT13TAAJMA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_distance",
+        "state": "282",
+        "attributes": {
+          "unit_of_measurement": "m",
+          "icon": "mdi:hiking",
+          "friendly_name": "TLOSWA054 Distance"
+        },
+        "last_changed": "2022-07-12T06:09:56.889513+00:00",
+        "last_updated": "2022-07-12T06:09:56.889513+00:00",
+        "context": {
+          "id": "01G7RGEKMSRFZPB3HFF45JV33E",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_activity",
+        "state": "Walking",
+        "attributes": {
+          "Confidence": "High",
+          "Types": [
+            "Walking"
+          ],
+          "icon": "mdi:walk",
+          "friendly_name": "TLOSWA054 Activity"
+        },
+        "last_changed": "2022-07-12T06:09:56.889596+00:00",
+        "last_updated": "2022-07-12T06:09:56.889596+00:00",
+        "context": {
+          "id": "01G7RGEKMSH00Y7VW73VZH4FCR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_floors_ascended",
+        "state": "2",
+        "attributes": {
+          "unit_of_measurement": "floors",
+          "icon": "mdi:stairs-up",
+          "friendly_name": "TLOSWA054 Floors Ascended"
+        },
+        "last_changed": "2022-07-12T06:09:56.889677+00:00",
+        "last_updated": "2022-07-12T06:09:56.889677+00:00",
+        "context": {
+          "id": "01G7RGEKMSR11KGST5HN6XMVJQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_floors_descended",
+        "state": "3",
+        "attributes": {
+          "unit_of_measurement": "floors",
+          "icon": "mdi:stairs-down",
+          "friendly_name": "TLOSWA054 Floors Descended"
+        },
+        "last_changed": "2022-07-12T06:09:56.889759+00:00",
+        "last_updated": "2022-07-12T06:09:56.889759+00:00",
+        "context": {
+          "id": "01G7RGEKMS2FJHCTZQKBHECMXG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_steps",
+        "state": "486",
+        "attributes": {
+          "unit_of_measurement": "steps",
+          "icon": "mdi:walk",
+          "friendly_name": "TLOSWA054 Steps"
+        },
+        "last_changed": "2022-07-12T06:09:56.889843+00:00",
+        "last_updated": "2022-07-12T06:09:56.889843+00:00",
+        "context": {
+          "id": "01G7RGEKMSRJY4FR13V1W5GEP1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.tloswa054_average_active_pace",
+        "state": "1",
+        "attributes": {
+          "unit_of_measurement": "m/s",
+          "icon": "mdi:speedometer",
+          "friendly_name": "TLOSWA054 Average Active Pace"
+        },
+        "last_changed": "2022-07-12T06:09:56.889927+00:00",
+        "last_updated": "2022-07-12T06:09:56.889927+00:00",
+        "context": {
+          "id": "01G7RGEKMSFXZV1XX0YNNTQYGT",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.tloswa054_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "TLOSWA054 Focus"
+        },
+        "last_changed": "2022-07-12T06:09:56.890017+00:00",
+        "last_updated": "2022-07-12T06:09:56.890017+00:00",
+        "context": {
+          "id": "01G7RGEKMTVSMPNYTBBANJVG9M",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.tloswa054",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 93,
+          "latitude": 43.927459716796875,
+          "longitude": 2.1992446176111047,
+          "gps_accuracy": 57,
+          "altitude": 185.0194435119629,
+          "vertical_accuracy": 58.401634216308594,
+          "friendly_name": "TLOSWA054"
+        },
+        "last_changed": "2022-07-12T06:09:56.890180+00:00",
+        "last_updated": "2022-07-12T06:09:56.890180+00:00",
+        "context": {
+          "id": "01G7RGEKMTSFTPBNWRPYKEFQ37",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_detected_activity",
+        "state": "unknown",
+        "attributes": {
+          "in_vehicle": 10,
+          "on_bicycle": 10,
+          "on_foot": 10,
+          "running": 10,
+          "still": 10,
+          "unknown": 40,
+          "walking": 10,
+          "icon": "mdi:progress-question",
+          "friendly_name": "BV9700Pro Detected Activity"
+        },
+        "last_changed": "2022-07-12T11:52:29.906548+00:00",
+        "last_updated": "2022-07-12T11:52:29.906548+00:00",
+        "context": {
+          "id": "01G7S41TYJNFJ4C422FNX3355C",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_sleep_confidence",
+        "state": "6",
+        "attributes": {
+          "state_class": "measurement",
+          "light": 5,
+          "motion": 6,
+          "timestamp": 1657626646000,
+          "unit_of_measurement": "%",
+          "icon": "mdi:sleep",
+          "friendly_name": "BV9700Pro Sleep Confidence"
+        },
+        "last_changed": "2022-07-12T11:50:47.376349+00:00",
+        "last_updated": "2022-07-12T11:50:47.376349+00:00",
+        "context": {
+          "id": "01G7S3YPTGWAFG4NA3WDZ3D1XR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_sleep_segment",
+        "state": "28440000.0",
+        "attributes": {
+          "end": 1657601865500,
+          "start": 1657573425500,
+          "status": "missing data",
+          "unit_of_measurement": "ms",
+          "icon": "mdi:sleep",
+          "friendly_name": "BV9700Pro Sleep Segment"
+        },
+        "last_changed": "2022-07-12T06:30:52.090312+00:00",
+        "last_updated": "2022-07-12T06:30:52.090312+00:00",
+        "context": {
+          "id": "01G7RHMXDT6GD328G2YN7STQGS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_app_tx_gb",
+        "state": "0.0109",
+        "attributes": {
+          "state_class": "total_increasing",
+          "unit_of_measurement": "GB",
+          "icon": "mdi:radio-tower",
+          "friendly_name": "BV9700Pro App Tx GB"
+        },
+        "last_changed": "2022-07-12T10:39:57.398571+00:00",
+        "last_updated": "2022-07-12T10:39:57.398571+00:00",
+        "context": {
+          "id": "01G7RZX0EPMKT5B2ZFR4N7125S",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_app_memory",
+        "state": "0.02",
+        "attributes": {
+          "state_class": "measurement",
+          "free_memory": 0.001,
+          "total_memory": 0.021,
+          "unit_of_measurement": "GB",
+          "icon": "mdi:memory",
+          "friendly_name": "BV9700Pro App Memory"
+        },
+        "last_changed": "2022-07-12T11:52:29.907564+00:00",
+        "last_updated": "2022-07-12T11:52:29.907564+00:00",
+        "context": {
+          "id": "01G7S41TYKE8NDPGEM1YB0ZPPR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_app_importance",
+        "state": "foreground_service",
+        "attributes": {
+          "icon": "mdi:android",
+          "friendly_name": "BV9700Pro App Importance"
+        },
+        "last_changed": "2022-07-12T09:26:00.010873+00:00",
+        "last_updated": "2022-07-12T09:26:00.010873+00:00",
+        "context": {
+          "id": "01G7RVNK2AYGYPNE33789NF51V",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_battery_level",
+        "state": "64",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-60",
+          "friendly_name": "BV9700Pro Battery Level"
+        },
+        "last_changed": "2022-07-12T11:50:47.377875+00:00",
+        "last_updated": "2022-07-12T11:50:47.377875+00:00",
+        "context": {
+          "id": "01G7S3YPTHNW8DXT93SCYX94T5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_battery_temperature",
+        "state": "42.0",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:battery",
+          "friendly_name": "BV9700Pro Battery Temperature"
+        },
+        "last_changed": "2022-07-12T11:52:29.908997+00:00",
+        "last_updated": "2022-07-12T11:52:29.908997+00:00",
+        "context": {
+          "id": "01G7S41TYM73B07X302W03185K",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_last_update_trigger",
+        "state": "android.media.RINGER_MODE_CHANGED",
+        "attributes": {
+          "icon": "mdi:update",
+          "friendly_name": "BV9700Pro Last Update Trigger"
+        },
+        "last_changed": "2022-07-12T11:52:29.910263+00:00",
+        "last_updated": "2022-07-12T11:52:29.910263+00:00",
+        "context": {
+          "id": "01G7S41TYP1S863Y8BX0V6691J",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_light_sensor",
+        "state": "36",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "lx",
+          "device_class": "illuminance",
+          "icon": "mdi:brightness-5",
+          "friendly_name": "BV9700Pro Light Sensor"
+        },
+        "last_changed": "2022-07-12T11:51:29.196290+00:00",
+        "last_updated": "2022-07-12T11:51:29.196290+00:00",
+        "context": {
+          "id": "01G7S3ZZNCR0GDSP2759176ZVR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_wifi_connection",
+        "state": "<not connected>",
+        "attributes": {
+          "is_hidden": true,
+          "icon": "mdi:wifi-off",
+          "friendly_name": "BV9700Pro WiFi Connection"
+        },
+        "last_changed": "2022-07-12T09:28:24.088726+00:00",
+        "last_updated": "2022-07-12T09:28:24.088726+00:00",
+        "context": {
+          "id": "01G7RVSZRRFWKC3S8XW2KZF7G8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_wifi_bssid",
+        "state": "02:00:00:00:00:00",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "BV9700Pro WiFi BSSID"
+        },
+        "last_changed": "2022-07-12T09:28:03.211361+00:00",
+        "last_updated": "2022-07-12T09:28:03.211361+00:00",
+        "context": {
+          "id": "01G7RVSBCBSZ79ENJTXWY6K4T3",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_wifi_signal_strength",
+        "state": "-1",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "dBm",
+          "device_class": "signal_strength",
+          "icon": "mdi:wifi-strength-off",
+          "friendly_name": "BV9700Pro WiFi Signal Strength"
+        },
+        "last_changed": "2022-07-12T06:09:56.890954+00:00",
+        "last_updated": "2022-07-12T06:09:56.890954+00:00",
+        "context": {
+          "id": "01G7RGEKMTMA74TDZ9WEXQD4H3",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_proximity_sensor",
+        "state": "1",
+        "attributes": {
+          "icon": "mdi:leak",
+          "friendly_name": "BV9700Pro Proximity Sensor"
+        },
+        "last_changed": "2022-07-12T11:48:58.043805+00:00",
+        "last_updated": "2022-07-12T11:48:58.043805+00:00",
+        "context": {
+          "id": "01G7S3VC1VY6EBMX1Y81WNRFRG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_steps_sensor",
+        "state": "50940",
+        "attributes": {
+          "state_class": "total_increasing",
+          "unit_of_measurement": "steps",
+          "icon": "mdi:walk",
+          "friendly_name": "BV9700Pro Steps Sensor"
+        },
+        "last_changed": "2022-07-12T10:38:13.919027+00:00",
+        "last_updated": "2022-07-12T10:38:13.919027+00:00",
+        "context": {
+          "id": "01G7RZSVCZ9DNFMVK1G1E5S8FC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_total_rx_gb",
+        "state": "11.891",
+        "attributes": {
+          "state_class": "total_increasing",
+          "unit_of_measurement": "GB",
+          "icon": "mdi:radio-tower",
+          "friendly_name": "BV9700Pro Total Rx GB"
+        },
+        "last_changed": "2022-07-12T11:52:29.911575+00:00",
+        "last_updated": "2022-07-12T11:52:29.911575+00:00",
+        "context": {
+          "id": "01G7S41TYQ4BW5CRS5CY3R1CZW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_total_tx_gb",
+        "state": "0.76",
+        "attributes": {
+          "state_class": "total_increasing",
+          "unit_of_measurement": "GB",
+          "icon": "mdi:radio-tower",
+          "friendly_name": "BV9700Pro Total Tx GB"
+        },
+        "last_changed": "2022-07-12T11:52:29.914848+00:00",
+        "last_updated": "2022-07-12T11:52:29.914848+00:00",
+        "context": {
+          "id": "01G7S41TYTSCKM95SXJPVGJEG8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_app_rx_gb",
+        "state": "0.0321",
+        "attributes": {
+          "state_class": "total_increasing",
+          "unit_of_measurement": "GB",
+          "icon": "mdi:radio-tower",
+          "friendly_name": "BV9700Pro App Rx GB"
+        },
+        "last_changed": "2022-07-12T11:48:58.041381+00:00",
+        "last_updated": "2022-07-12T11:48:58.041381+00:00",
+        "context": {
+          "id": "01G7S3VC1S3XT8B4KDKJB64NBE",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_geocoded_location",
+        "state": "203 Rte de Millau, 81000 Albi, France",
+        "attributes": {
+          "administrative_area": "Occitanie",
+          "country": "France",
+          "iso_country_code": "FR",
+          "latitude": 43.927853,
+          "locality": "Albi",
+          "longitude": 2.199107,
+          "postal_code": "81000",
+          "sub_administrative_area": "Tarn",
+          "sub_locality": "null",
+          "sub_thoroughfare": "203",
+          "thoroughfare": "Route de Millau",
+          "icon": "mdi:map",
+          "friendly_name": "BV9700Pro Geocoded Location"
+        },
+        "last_changed": "2022-07-12T09:28:03.210071+00:00",
+        "last_updated": "2022-07-12T09:28:03.210071+00:00",
+        "context": {
+          "id": "01G7RVSBCAS399N1VNBDB589Y0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_wifi_ip_address",
+        "state": "<not connected>",
+        "attributes": {
+          "icon": "mdi:ip",
+          "friendly_name": "BV9700Pro WiFi IP Address"
+        },
+        "last_changed": "2022-07-12T09:28:24.089179+00:00",
+        "last_updated": "2022-07-12T09:28:24.089179+00:00",
+        "context": {
+          "id": "01G7RVSZRSK9QGXRHBPK1A5CWH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_wifi_link_speed",
+        "state": "0",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "Mbps",
+          "icon": "mdi:wifi-strength-off",
+          "friendly_name": "BV9700Pro WiFi Link Speed"
+        },
+        "last_changed": "2022-07-12T09:28:24.089596+00:00",
+        "last_updated": "2022-07-12T09:28:24.089596+00:00",
+        "context": {
+          "id": "01G7RVSZRS2R6QCYRACAEZK2N6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_wifi_frequency",
+        "state": "0",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "MHz",
+          "icon": "mdi:wifi",
+          "friendly_name": "BV9700Pro WiFi Frequency"
+        },
+        "last_changed": "2022-07-12T09:28:24.090007+00:00",
+        "last_updated": "2022-07-12T09:28:24.090007+00:00",
+        "context": {
+          "id": "01G7RVSZRTRJH6ST2JKS78CBTD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_public_ip_address",
+        "state": "77.205.40.25",
+        "attributes": {
+          "icon": "mdi:ip",
+          "friendly_name": "BV9700Pro Public IP Address"
+        },
+        "last_changed": "2022-07-12T07:03:40.297049+00:00",
+        "last_updated": "2022-07-12T07:03:40.297049+00:00",
+        "context": {
+          "id": "01G7RKGZG9R54SRZ4TYT74K962",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_mobile_rx_gb",
+        "state": "4.7",
+        "attributes": {
+          "state_class": "total_increasing",
+          "unit_of_measurement": "GB",
+          "icon": "mdi:radio-tower",
+          "friendly_name": "BV9700Pro Mobile Rx GB"
+        },
+        "last_changed": "2022-07-12T11:52:29.910739+00:00",
+        "last_updated": "2022-07-12T11:52:29.910739+00:00",
+        "context": {
+          "id": "01G7S41TYP6RCE35XQQ9G7GZGX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_mobile_tx_gb",
+        "state": "0.201",
+        "attributes": {
+          "unit_of_measurement": "GB",
+          "icon": "mdi:radio-tower",
+          "friendly_name": "BV9700Pro Mobile Tx GB"
+        },
+        "last_changed": "2022-07-12T11:52:29.911173+00:00",
+        "last_updated": "2022-07-12T11:52:29.911173+00:00",
+        "context": {
+          "id": "01G7S41TYQ1DWW5C345YG6J7R7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_volume_level_music",
+        "state": "10",
+        "attributes": {
+          "icon": "mdi:music",
+          "friendly_name": "BV9700Pro Volume Level Music"
+        },
+        "last_changed": "2022-07-12T11:52:29.908592+00:00",
+        "last_updated": "2022-07-12T11:52:29.908592+00:00",
+        "context": {
+          "id": "01G7S41TYM85YD43F56QZNP7EG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_active_notification_count",
+        "state": "1",
+        "attributes": {
+          "state_class": "measurement",
+          "android.appInfo_com.zhiliaoapp.musically": "ApplicationInfo{2686a7c com.zhiliaoapp.musically}",
+          "android.icon_com.zhiliaoapp.musically": 2131755320,
+          "android.infoText_com.zhiliaoapp.musically": "null",
+          "android.largeIcon_com.zhiliaoapp.musically": "android.graphics.Bitmap@ecf4f05",
+          "android.progressIndeterminate_com.zhiliaoapp.musically": false,
+          "android.progressMax_com.zhiliaoapp.musically": 0,
+          "android.progress_com.zhiliaoapp.musically": 0,
+          "android.reduced.images_com.zhiliaoapp.musically": true,
+          "android.remoteInputHistory_com.zhiliaoapp.musically": "null",
+          "android.showChronometer_com.zhiliaoapp.musically": false,
+          "android.showWhen_com.zhiliaoapp.musically": true,
+          "android.subText_com.zhiliaoapp.musically": "null",
+          "android.text_com.zhiliaoapp.musically": "Louna le panda (lounamarie19) a accept\u00e9 ta demande d'abonnement.",
+          "android.title_com.zhiliaoapp.musically": "TikTok",
+          "com.zhiliaoapp.musically_84318979_is_clearable": true,
+          "com.zhiliaoapp.musically_84318979_is_ongoing": false,
+          "com.zhiliaoapp.musically_84318979_post_time": 1657626577997,
+          "unit_of_measurement": "notifications",
+          "icon": "mdi:bell-ring",
+          "friendly_name": "BV9700Pro Active Notification Count"
+        },
+        "last_changed": "2022-07-12T11:50:47.379707+00:00",
+        "last_updated": "2022-07-12T11:50:47.379707+00:00",
+        "context": {
+          "id": "01G7S3YPTKRVDJ0S7XW23K6S6J",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_device_locked",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:cellphone",
+          "friendly_name": "BV9700Pro Device Locked"
+        },
+        "last_changed": "2022-07-12T11:52:29.909476+00:00",
+        "last_updated": "2022-07-12T11:52:29.909476+00:00",
+        "context": {
+          "id": "01G7S41TYNR61FSASMHNPCGEBX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_keyguard_locked",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:cellphone",
+          "friendly_name": "BV9700Pro Keyguard Locked"
+        },
+        "last_changed": "2022-07-12T11:52:29.909896+00:00",
+        "last_updated": "2022-07-12T11:52:29.909896+00:00",
+        "context": {
+          "id": "01G7S41TYND09547FC5QEF8CG9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_interactive",
+        "state": "on",
+        "attributes": {
+          "icon": "mdi:cellphone",
+          "friendly_name": "BV9700Pro Interactive"
+        },
+        "last_changed": "2022-07-12T11:51:29.196405+00:00",
+        "last_updated": "2022-07-12T11:51:29.196405+00:00",
+        "context": {
+          "id": "01G7S3ZZNCY3RTGNPBVMF1R52N",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_wifi_state",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:wifi-off",
+          "friendly_name": "BV9700Pro WiFi State"
+        },
+        "last_changed": "2022-07-12T09:28:22.648089+00:00",
+        "last_updated": "2022-07-12T09:28:22.648089+00:00",
+        "context": {
+          "id": "01G7RVSYBRDPM24A8F6M0TEAZN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.bv9700pro",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "latitude": 43.9277911,
+          "longitude": 2.1986879,
+          "gps_accuracy": 68,
+          "altitude": 239,
+          "course": 0,
+          "speed": 0,
+          "vertical_accuracy": 10,
+          "friendly_name": "BV9700Pro"
+        },
+        "last_changed": "2022-07-12T09:27:54.053199+00:00",
+        "last_updated": "2022-07-12T09:27:54.053199+00:00",
+        "context": {
+          "id": "01G7RVS2E5C512QX22GKPPZ6BP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.telephone_agnes_battery_level",
+        "state": "50",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-50",
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s Battery Level"
+        },
+        "last_changed": "2022-07-12T11:50:06.741797+00:00",
+        "last_updated": "2022-07-12T11:50:06.741797+00:00",
+        "context": {
+          "id": "01G7S3XF4NSVMJPXWMTJX4ZVA4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.telephone_agnes_battery_state",
+        "state": "discharging",
+        "attributes": {
+          "icon": "mdi:battery-minus",
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s Battery State"
+        },
+        "last_changed": "2022-07-12T06:13:13.430162+00:00",
+        "last_updated": "2022-07-12T06:13:13.430162+00:00",
+        "context": {
+          "id": "01G7RGMKJPMYV0M5H0DP0D8TPJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.telephone_agnes_charger_type",
+        "state": "none",
+        "attributes": {
+          "icon": "mdi:battery",
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s Charger Type"
+        },
+        "last_changed": "2022-07-12T06:13:13.431096+00:00",
+        "last_updated": "2022-07-12T06:13:13.431096+00:00",
+        "context": {
+          "id": "01G7RGMKJQ83WDM5P7EEMQA1TZ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.telephone_agnes_battery_health",
+        "state": "good",
+        "attributes": {
+          "icon": "mdi:battery-heart-variant",
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s Battery Health"
+        },
+        "last_changed": "2022-07-12T06:09:56.892731+00:00",
+        "last_updated": "2022-07-12T06:09:56.892731+00:00",
+        "context": {
+          "id": "01G7RGEKMWBZ90KGM7W246B50A",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.telephone_agnes_battery_temperature",
+        "state": "32.5",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:battery",
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s Battery Temperature"
+        },
+        "last_changed": "2022-07-12T11:50:06.742475+00:00",
+        "last_updated": "2022-07-12T11:50:06.742475+00:00",
+        "context": {
+          "id": "01G7S3XF4PWFPHP01KX6DTC34V",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.telephone_agnes_is_charging",
+        "state": "off",
+        "attributes": {
+          "device_class": "plug",
+          "icon": "mdi:power-plug-off",
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s Is Charging"
+        },
+        "last_changed": "2022-07-12T06:13:13.430703+00:00",
+        "last_updated": "2022-07-12T06:13:13.430703+00:00",
+        "context": {
+          "id": "01G7RGMKJP9H865D4SE8MQ8M04",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.telephone_agnes",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "latitude": 43.927224,
+          "longitude": 2.1991913,
+          "gps_accuracy": 13,
+          "altitude": 239,
+          "course": 0,
+          "speed": 0,
+          "vertical_accuracy": 1,
+          "friendly_name": "T\u00e9l\u00e9phone Agn\u00e8s"
+        },
+        "last_changed": "2022-07-12T11:50:07.032586+00:00",
+        "last_updated": "2022-07-12T11:50:07.032586+00:00",
+        "context": {
+          "id": "01G7S3XFDRW7TD7KRC0QR8PBPJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_average_active_pace",
+        "state": "2",
+        "attributes": {
+          "unit_of_measurement": "m/s",
+          "icon": "mdi:speedometer",
+          "friendly_name": "iPhone de Gladys Average Active Pace"
+        },
+        "last_changed": "2022-07-12T09:11:38.045899+00:00",
+        "last_updated": "2022-07-12T09:11:38.045899+00:00",
+        "context": {
+          "id": "01G7RTV99X4NCJ115K9DRTZ5A5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_floors_ascended",
+        "state": "1",
+        "attributes": {
+          "unit_of_measurement": "floors",
+          "icon": "mdi:stairs-up",
+          "friendly_name": "iPhone de Gladys Floors Ascended"
+        },
+        "last_changed": "2022-07-12T09:11:38.044885+00:00",
+        "last_updated": "2022-07-12T09:11:38.044885+00:00",
+        "context": {
+          "id": "01G7RTV99WB6B2PV29M7D4KF8B",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_distance",
+        "state": "41",
+        "attributes": {
+          "unit_of_measurement": "m",
+          "icon": "mdi:hiking",
+          "friendly_name": "iPhone de Gladys Distance"
+        },
+        "last_changed": "2022-07-12T09:11:38.044483+00:00",
+        "last_updated": "2022-07-12T09:11:38.044483+00:00",
+        "context": {
+          "id": "01G7RTV99WZ3ES7368G5EV8ZWN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_battery_level",
+        "state": "90",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-90",
+          "friendly_name": "iPhone de Gladys Battery Level"
+        },
+        "last_changed": "2022-07-12T09:11:38.046281+00:00",
+        "last_updated": "2022-07-12T09:11:38.046281+00:00",
+        "context": {
+          "id": "01G7RTV99Y64ZY3J2X6Y46Z436",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_battery_state",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-90",
+          "friendly_name": "iPhone de Gladys Battery State"
+        },
+        "last_changed": "2022-07-12T08:42:07.569789+00:00",
+        "last_updated": "2022-07-12T09:03:50.048971+00:00",
+        "context": {
+          "id": "01G7RTD09070X6PVRPCP4MZWVQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_storage",
+        "state": "0.00",
+        "attributes": {
+          "Available": "516,5 Mo",
+          "Available (Important)": "528,3 Mo",
+          "Available (Opportunistic)": "0,0 Mo",
+          "Total": "63,98 Go",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "iPhone de Gladys Storage"
+        },
+        "last_changed": "2022-07-12T06:09:56.893330+00:00",
+        "last_updated": "2022-07-12T09:11:38.046922+00:00",
+        "context": {
+          "id": "01G7RTV99Y3TX4TNEQ9A89RYP5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_ssid",
+        "state": "RIVAYROLLE_EXT",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "iPhone de Gladys SSID"
+        },
+        "last_changed": "2022-07-12T06:09:56.893386+00:00",
+        "last_updated": "2022-07-12T06:09:56.893386+00:00",
+        "context": {
+          "id": "01G7RGEKMXXA4E42ARYTET2BBP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_bssid",
+        "state": "c4:4:15:66:f4:ba",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "iPhone de Gladys BSSID"
+        },
+        "last_changed": "2022-07-12T06:09:56.893451+00:00",
+        "last_updated": "2022-07-12T06:09:56.893451+00:00",
+        "context": {
+          "id": "01G7RGEKMX7AS35373GS57W2K1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "iPhone de Gladys Connection Type"
+        },
+        "last_changed": "2022-07-12T06:09:56.893516+00:00",
+        "last_updated": "2022-07-12T06:09:56.893516+00:00",
+        "context": {
+          "id": "01G7RGEKMX613AFN7N3078WH5D",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_sim_1",
+        "state": "SFR",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000001",
+          "Carrier Name": "SFR",
+          "Current Radio Technology": "Long-Term Evolution (LTE)",
+          "ISO Country Code": "fr",
+          "Mobile Country Code": "208",
+          "Mobile Network Code": "10",
+          "icon": "mdi:sim",
+          "friendly_name": "iPhone de Gladys SIM 1"
+        },
+        "last_changed": "2022-07-12T06:09:56.893573+00:00",
+        "last_updated": "2022-07-12T06:09:56.893573+00:00",
+        "context": {
+          "id": "01G7RGEKMXQJSBG9PES4231P04",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_geocoded_location",
+        "state": "6 Chemin de la Rivayrolle\n81000 Albi\nFrance",
+        "attributes": {
+          "Administrative Area": "Occitanie",
+          "Areas Of Interest": "N/A",
+          "Country": "France",
+          "Inland Water": "N/A",
+          "ISO Country Code": "FR",
+          "Locality": "Albi",
+          "Location": [
+            43.927398681640625,
+            2.199010782412796
+          ],
+          "Name": "6 Chemin de la Rivayrolle",
+          "Ocean": "N/A",
+          "Postal Code": "81000",
+          "Sub Administrative Area": "Tarn",
+          "Sub Locality": "N/A",
+          "Sub Thoroughfare": "6",
+          "Thoroughfare": "Chemin de la Rivayrolle",
+          "Time Zone": "Europe/Paris",
+          "Zones": [
+            "Maison"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "iPhone de Gladys Geocoded Location"
+        },
+        "last_changed": "2022-07-12T06:09:56.893647+00:00",
+        "last_updated": "2022-07-12T09:11:38.048351+00:00",
+        "context": {
+          "id": "01G7RTV9A0SRFZ1WBJNBTJ0BEQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_last_update_trigger",
+        "state": "Background Fetch",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "iPhone de Gladys Last Update Trigger"
+        },
+        "last_changed": "2022-07-12T08:42:10.321446+00:00",
+        "last_updated": "2022-07-12T08:42:10.321446+00:00",
+        "context": {
+          "id": "01G7RS5B0HZMA4A2V17EY7CAGR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_activity",
+        "state": "Unknown",
+        "attributes": {
+          "Confidence": "High",
+          "Types": [
+            "Unknown"
+          ],
+          "icon": "mdi:help-circle",
+          "friendly_name": "iPhone de Gladys Activity"
+        },
+        "last_changed": "2022-07-12T09:11:38.043976+00:00",
+        "last_updated": "2022-07-12T09:11:38.043976+00:00",
+        "context": {
+          "id": "01G7RTV99V4PV7NCG45HCZDNEA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_steps",
+        "state": "66",
+        "attributes": {
+          "unit_of_measurement": "steps",
+          "icon": "mdi:walk",
+          "friendly_name": "iPhone de Gladys Steps"
+        },
+        "last_changed": "2022-07-12T09:11:38.045566+00:00",
+        "last_updated": "2022-07-12T09:11:38.045566+00:00",
+        "context": {
+          "id": "01G7RTV99XQ697HFSTTGFN5M8P",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.iphone_de_gladys_floors_descended",
+        "state": "2",
+        "attributes": {
+          "unit_of_measurement": "floors",
+          "icon": "mdi:stairs-down",
+          "friendly_name": "iPhone de Gladys Floors Descended"
+        },
+        "last_changed": "2022-07-12T08:50:46.716492+00:00",
+        "last_updated": "2022-07-12T08:50:46.716492+00:00",
+        "context": {
+          "id": "01G7RSN39W48RCWMB0266VJXS5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.iphone_de_gladys_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "iPhone de Gladys Focus"
+        },
+        "last_changed": "2022-07-12T06:09:56.894011+00:00",
+        "last_updated": "2022-07-12T06:09:56.894011+00:00",
+        "context": {
+          "id": "01G7RGEKMY0HEMX8M00NX24ZA6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.iphone_de_gladys",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 90,
+          "latitude": 43.927398681640625,
+          "longitude": 2.199010782412796,
+          "gps_accuracy": 24.000000000000004,
+          "altitude": 163.45105209350587,
+          "speed": 0.05778888240456581,
+          "vertical_accuracy": 3,
+          "friendly_name": "iPhone de Gladys"
+        },
+        "last_changed": "2022-07-12T09:11:36.674170+00:00",
+        "last_updated": "2022-07-12T09:11:36.674170+00:00",
+        "context": {
+          "id": "01G7RTV7Z22E4EJMFW8DJ2013W",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.diskstation_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "DISKSTATION Reboot"
+        },
+        "last_changed": "2022-07-12T06:10:18.132425+00:00",
+        "last_updated": "2022-07-12T06:10:18.132425+00:00",
+        "context": {
+          "id": "01G7RGF8CM7E0716H4SCJ5AJ1M",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.diskstation_shutdown",
+        "state": "unknown",
+        "attributes": {
+          "icon": "mdi:power",
+          "friendly_name": "DISKSTATION Shutdown"
+        },
+        "last_changed": "2022-07-12T06:10:18.132643+00:00",
+        "last_updated": "2022-07-12T06:10:18.132643+00:00",
+        "context": {
+          "id": "01G7RGF8CMX085VWPH5CREHDG9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.diskstation_dsm_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "DSM 7.0.1-42218 Update 4",
+          "in_progress": false,
+          "latest_version": "DSM 7.0.1-42218 Update 4",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Synology DSM",
+          "attribution": "Data provided by Synology",
+          "entity_picture": "https://brands.home-assistant.io/_/synology_dsm/icon.png",
+          "friendly_name": "DISKSTATION DSM Update",
+          "supported_features": 0
+        },
+        "last_changed": "2022-07-12T06:10:18.132861+00:00",
+        "last_updated": "2022-07-12T06:10:18.132861+00:00",
+        "context": {
+          "id": "01G7RGF8CM0WA1CEWGP4ZNR3FB",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.downlight_rgbw_9f1b00_restart",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Downlight RGBW 9F1B00 Restart"
+        },
+        "last_changed": "2022-07-12T06:57:42.327154+00:00",
+        "last_updated": "2022-07-12T06:57:42.327154+00:00",
+        "context": {
+          "id": "01G7RK61XQFTMQR23DG5A8ZA3R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.downlight_rgbw_9f1b64_restart",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Downlight RGBW 9F1B64 Restart"
+        },
+        "last_changed": "2022-07-12T06:57:42.038188+00:00",
+        "last_updated": "2022-07-12T06:57:42.038188+00:00",
+        "context": {
+          "id": "01G7RK61MPG1V37KRBZSTRFSW0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_battery_state",
+        "state": "discharging",
+        "attributes": {
+          "icon": "mdi:battery-minus",
+          "friendly_name": "BV9700Pro Battery State"
+        },
+        "last_changed": "2022-07-12T06:30:52.747371+00:00",
+        "last_updated": "2022-07-12T06:30:52.747371+00:00",
+        "context": {
+          "id": "01G7RHMY2B8BP57MM584N1CV1T",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_is_charging",
+        "state": "off",
+        "attributes": {
+          "device_class": "plug",
+          "icon": "mdi:power-plug-off",
+          "friendly_name": "BV9700Pro Is Charging"
+        },
+        "last_changed": "2022-07-12T06:30:52.777847+00:00",
+        "last_updated": "2022-07-12T06:30:52.777847+00:00",
+        "context": {
+          "id": "01G7RHMY39S2GBASH2AAJNJERF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_charger_type",
+        "state": "none",
+        "attributes": {
+          "icon": "mdi:battery",
+          "friendly_name": "BV9700Pro Charger Type"
+        },
+        "last_changed": "2022-07-12T06:30:52.781086+00:00",
+        "last_updated": "2022-07-12T06:30:52.781086+00:00",
+        "context": {
+          "id": "01G7RHMY3DFNZP1JFBJ8KTGKC7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_next_alarm",
+        "state": "2022-07-13T05:00:00+00:00",
+        "attributes": {
+          "Local Time": "Wed Jul 13 07:00:00 GMT+02:00 2022",
+          "Package": "com.android.deskclock",
+          "Time in Milliseconds": 1657688400000,
+          "device_class": "timestamp",
+          "icon": "mdi:alarm",
+          "friendly_name": "BV9700Pro Next Alarm"
+        },
+        "last_changed": "2022-07-12T06:30:53.758493+00:00",
+        "last_updated": "2022-07-12T06:30:53.758493+00:00",
+        "context": {
+          "id": "01G7RHMZ1Y2G4X366GJ9B8TFKF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_power_save",
+        "state": "on",
+        "attributes": {
+          "icon": "mdi:battery-plus",
+          "friendly_name": "BV9700Pro Power Save"
+        },
+        "last_changed": "2022-07-12T06:30:53.968607+00:00",
+        "last_updated": "2022-07-12T06:30:53.968607+00:00",
+        "context": {
+          "id": "01G7RHMZ8GRC19M4G0V83GMY8C",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_music_active",
+        "state": "on",
+        "attributes": {
+          "icon": "mdi:music",
+          "friendly_name": "BV9700Pro Music Active"
+        },
+        "last_changed": "2022-07-12T11:52:29.908216+00:00",
+        "last_updated": "2022-07-12T11:52:29.908216+00:00",
+        "context": {
+          "id": "01G7S41TYM0QN79W3EX74YJWE1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.rav4",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "latitude": 43.9273668,
+          "longitude": 2.1989262,
+          "gps_accuracy": 7,
+          "altitude": 234,
+          "course": 353,
+          "speed": 1,
+          "vertical_accuracy": 4,
+          "friendly_name": "rav4"
+        },
+        "last_changed": "2022-07-12T09:23:32.196602+00:00",
+        "last_updated": "2022-07-12T09:23:32.196602+00:00",
+        "context": {
+          "id": "01G7RVH2Q4ZRZMKHYFQN7Y9E9Y",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rav4_battery_level",
+        "state": "100",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery",
+          "friendly_name": "rav4 Battery Level"
+        },
+        "last_changed": "2022-07-12T09:23:31.048693+00:00",
+        "last_updated": "2022-07-12T09:23:31.048693+00:00",
+        "context": {
+          "id": "01G7RVH1K8A2DDDT3YVTQKJBVA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rav4_battery_state",
+        "state": "full",
+        "attributes": {
+          "icon": "mdi:battery-charging",
+          "friendly_name": "rav4 Battery State"
+        },
+        "last_changed": "2022-07-12T09:23:31.072481+00:00",
+        "last_updated": "2022-07-12T09:23:31.072481+00:00",
+        "context": {
+          "id": "01G7RVH1M0KS0DHJC8K676YWQC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.rav4_is_charging",
+        "state": "on",
+        "attributes": {
+          "device_class": "plug",
+          "icon": "mdi:power-plug",
+          "friendly_name": "rav4 Is Charging"
+        },
+        "last_changed": "2022-07-12T09:23:31.105207+00:00",
+        "last_updated": "2022-07-12T09:23:31.105207+00:00",
+        "context": {
+          "id": "01G7RVH1N101H2JEH7NEVTC73R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rav4_charger_type",
+        "state": "ac",
+        "attributes": {
+          "icon": "mdi:power-plug",
+          "friendly_name": "rav4 Charger Type"
+        },
+        "last_changed": "2022-07-12T09:23:31.131370+00:00",
+        "last_updated": "2022-07-12T09:23:31.131370+00:00",
+        "context": {
+          "id": "01G7RVH1NV9PR8QP58VT0ZVR4B",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rav4_battery_health",
+        "state": "good",
+        "attributes": {
+          "icon": "mdi:battery-heart-variant",
+          "friendly_name": "rav4 Battery Health"
+        },
+        "last_changed": "2022-07-12T09:23:31.159058+00:00",
+        "last_updated": "2022-07-12T09:23:31.159058+00:00",
+        "context": {
+          "id": "01G7RVH1PQZAD1EH4TM2BQ87C7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rav4_battery_temperature",
+        "state": "1.1",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "\u00b0C",
+          "device_class": "temperature",
+          "icon": "mdi:battery",
+          "friendly_name": "rav4 Battery Temperature"
+        },
+        "last_changed": "2022-07-12T09:23:31.185153+00:00",
+        "last_updated": "2022-07-12T09:23:31.185153+00:00",
+        "context": {
+          "id": "01G7RVH1QHNY59YWP4BSZV3KM8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.rav4",
+        "state": "unknown",
+        "attributes": {
+          "editable": false,
+          "id": "rav4",
+          "user_id": "020738ee517b4aec958c0e1c3b2e34ab",
+          "friendly_name": "RAV4"
+        },
+        "last_changed": "2022-07-12T09:24:46.092304+00:00",
+        "last_updated": "2022-07-12T09:24:46.092304+00:00",
+        "context": {
+          "id": "01G7RVKAWCHVPH0R29D636ET54",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.git_pull_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "7.13.1",
+          "in_progress": false,
+          "latest_version": "7.13.1",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Git pull",
+          "entity_picture": "/api/hassio/addons/core_git_pull/icon",
+          "friendly_name": "Git pull: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.065079+00:00",
+        "last_updated": "2022-07-12T11:22:06.065079+00:00",
+        "context": {
+          "id": "01G7S2A5VHDKXXD8WY28TBWDQN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.mosquitto_broker_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "6.1.2",
+          "in_progress": false,
+          "latest_version": "6.1.2",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Mosquitto broker",
+          "entity_picture": "/api/hassio/addons/core_mosquitto/icon",
+          "friendly_name": "Mosquitto broker: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.065268+00:00",
+        "last_updated": "2022-07-12T11:22:06.065268+00:00",
+        "context": {
+          "id": "01G7S2A5VH16XJ95778TT47EZ7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.samba_backup_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "5.1.1",
+          "in_progress": false,
+          "latest_version": "5.1.1",
+          "release_summary": "# Changelog\n\n## 5.1.1\n\n- Fix bug that add-on does not start without a log level\n\n## 5.1.0\n\n- Implement necessary changes for Supervisor 2022.06 so that add-ons are considered in partial backups\n- Add translations\n- Update Alpine Linux to 3.16\n- Bump CLI v",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "Samba Backup",
+          "entity_picture": "/api/hassio/addons/15d21743_samba_backup/icon",
+          "friendly_name": "Samba Backup: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-12T11:22:06.065461+00:00",
+        "last_updated": "2022-07-12T11:27:08.054128+00:00",
+        "context": {
+          "id": "01G7S2KCRP8HRA17VFWCJ1C88F",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:55:18.157896+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_ringer_mode",
+        "state": "normal",
+        "attributes": {
+          "icon": "mdi:volume-high",
+          "friendly_name": "BV9700Pro Ringer Mode"
+        },
+        "last_changed": "2022-07-11T15:43:07.490839+00:00",
+        "last_updated": "2022-07-11T15:43:07.490839+00:00",
+        "context": {
+          "id": "01G7PYVD72M5JWKP3AQ56WBEM8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.232791+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_volume_level_ringer",
+        "state": "12",
+        "attributes": {
+          "icon": "mdi:phone-ring",
+          "friendly_name": "BV9700Pro Volume Level Ringer"
+        },
+        "last_changed": "2022-07-11T15:43:07.490907+00:00",
+        "last_updated": "2022-07-11T15:43:07.490907+00:00",
+        "context": {
+          "id": "01G7PYVD72N85MFWVC6887THM1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.233087+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_media_session",
+        "state": "Unavailable",
+        "attributes": {
+          "total_media_session_count": 0,
+          "icon": "mdi:play-circle",
+          "friendly_name": "BV9700Pro Media Session"
+        },
+        "last_changed": "2022-07-11T15:43:07.491341+00:00",
+        "last_updated": "2022-07-11T15:43:07.491341+00:00",
+        "context": {
+          "id": "01G7PYVD73R2C2R6YAC1DSPA23",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.235144+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_current_version",
+        "state": "2022.6.0-full",
+        "attributes": {
+          "icon": "mdi:android",
+          "friendly_name": "BV9700Pro Current Version"
+        },
+        "last_changed": "2022-07-11T15:43:07.491402+00:00",
+        "last_updated": "2022-07-11T15:43:07.491402+00:00",
+        "context": {
+          "id": "01G7PYVD7317G3WVABVCEKWB41",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.238211+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_app_standby_bucket",
+        "state": "never",
+        "attributes": {
+          "icon": "mdi:android",
+          "friendly_name": "BV9700Pro App Standby Bucket"
+        },
+        "last_changed": "2022-07-11T15:43:07.491465+00:00",
+        "last_updated": "2022-07-11T15:43:07.491465+00:00",
+        "context": {
+          "id": "01G7PYVD73CBWXN90M5HJEW52G",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.238587+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_audio_mode",
+        "state": "normal",
+        "attributes": {
+          "icon": "mdi:volume-high",
+          "friendly_name": "BV9700Pro Audio Mode"
+        },
+        "last_changed": "2022-07-11T15:43:07.491525+00:00",
+        "last_updated": "2022-07-11T15:43:07.491525+00:00",
+        "context": {
+          "id": "01G7PYVD73F1M6M6W409KDJR82",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.238911+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_volume_level_alarm",
+        "state": "4",
+        "attributes": {
+          "icon": "mdi:alarm",
+          "friendly_name": "BV9700Pro Volume Level Alarm"
+        },
+        "last_changed": "2022-07-11T15:43:07.491589+00:00",
+        "last_updated": "2022-07-11T15:43:07.491589+00:00",
+        "context": {
+          "id": "01G7PYVD73K9WS5NXFKMR6PSQC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.239218+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_volume_level_call",
+        "state": "7",
+        "attributes": {
+          "icon": "mdi:phone",
+          "friendly_name": "BV9700Pro Volume Level Call"
+        },
+        "last_changed": "2022-07-11T15:43:07.491650+00:00",
+        "last_updated": "2022-07-11T15:43:07.491650+00:00",
+        "context": {
+          "id": "01G7PYVD733J927E888P962NXE",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.239521+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_battery_health",
+        "state": "good",
+        "attributes": {
+          "icon": "mdi:battery-heart-variant",
+          "friendly_name": "BV9700Pro Battery Health"
+        },
+        "last_changed": "2022-07-11T15:43:07.491842+00:00",
+        "last_updated": "2022-07-11T15:43:07.491842+00:00",
+        "context": {
+          "id": "01G7PYVD73TVYYV7PQC5F9TRH7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.240388+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_bluetooth_connection",
+        "state": "0",
+        "attributes": {
+          "state_class": "measurement",
+          "connected_not_paired_devices": [],
+          "connected_paired_devices": [],
+          "paired_devices": [],
+          "unit_of_measurement": "connection(s)",
+          "icon": "mdi:bluetooth",
+          "friendly_name": "BV9700Pro Bluetooth Connection"
+        },
+        "last_changed": "2022-07-11T15:43:07.491905+00:00",
+        "last_updated": "2022-07-11T15:43:07.491905+00:00",
+        "context": {
+          "id": "01G7PYVD736J4C5X2M6M3JKT2J",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.240757+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_do_not_disturb_sensor",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:minus-circle",
+          "friendly_name": "BV9700Pro Do Not Disturb Sensor"
+        },
+        "last_changed": "2022-07-11T15:43:07.491970+00:00",
+        "last_updated": "2022-07-11T15:43:07.491970+00:00",
+        "context": {
+          "id": "01G7PYVD73TJFYPV18QR4GRHSV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.241049+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_last_reboot",
+        "state": "2022-07-06T13:34:06+00:00",
+        "attributes": {
+          "Local Time": "Wed Jul 06 15:34:06 GMT+02:00 2022",
+          "Time in Milliseconds": 1657114446931,
+          "device_class": "timestamp",
+          "icon": "mdi:restart",
+          "friendly_name": "BV9700Pro Last Reboot"
+        },
+        "last_changed": "2022-07-11T15:43:07.492046+00:00",
+        "last_updated": "2022-07-11T15:43:07.492046+00:00",
+        "context": {
+          "id": "01G7PYVD74WZDWG7R3K8VPPNWD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.241359+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_last_notification",
+        "state": "Home Assistant",
+        "attributes": {
+          "android.appInfo": "ApplicationInfo{b1f1766 com.android.vending}",
+          "android.icon": 17301633,
+          "android.infoText": "null",
+          "android.largeIcon": "null",
+          "android.progress": 0,
+          "android.progressIndeterminate": false,
+          "android.progressMax": 10000,
+          "android.reduced.images": true,
+          "android.remoteInputHistory": "null",
+          "android.showChronometer": false,
+          "android.showWhen": true,
+          "android.subText": "T\u00e9l\u00e9chargement",
+          "android.text": "null",
+          "android.title": "Home Assistant",
+          "is_clearable": false,
+          "is_ongoing": true,
+          "package": "com.android.vending",
+          "post_time": 1640418102968,
+          "icon": "mdi:bell-ring",
+          "friendly_name": "BV9700Pro Last Notification"
+        },
+        "last_changed": "2022-07-11T15:43:07.492193+00:00",
+        "last_updated": "2022-07-11T15:43:07.492193+00:00",
+        "context": {
+          "id": "01G7PYVD74MEREJE5R2J2P2NP5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.242129+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_last_removed_notification",
+        "state": "com.google.android.googlequicksearchbox",
+        "attributes": {
+          "android.infoText": "null",
+          "android.largeIcon": "null",
+          "android.progress": 0,
+          "android.progressIndeterminate": false,
+          "android.progressMax": 0,
+          "android.reduced.images": true,
+          "android.remoteInputHistory": "null",
+          "android.showChronometer": false,
+          "android.showWhen": true,
+          "android.subText": "null",
+          "android.text": "null",
+          "android.title": "null",
+          "is_clearable": true,
+          "is_ongoing": false,
+          "package": "com.google.android.googlequicksearchbox",
+          "post_time": 1640418030039,
+          "icon": "mdi:bell-ring",
+          "friendly_name": "BV9700Pro Last Removed Notification"
+        },
+        "last_changed": "2022-07-11T15:43:07.492260+00:00",
+        "last_updated": "2022-07-11T15:43:07.492260+00:00",
+        "context": {
+          "id": "01G7PYVD74QC904H1697QRJMSW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.242556+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_phone_state",
+        "state": "idle",
+        "attributes": {
+          "icon": "mdi:phone",
+          "friendly_name": "BV9700Pro Phone State"
+        },
+        "last_changed": "2022-07-11T15:43:07.492325+00:00",
+        "last_updated": "2022-07-11T15:43:07.492325+00:00",
+        "context": {
+          "id": "01G7PYVD747BHR2RAWV4NXH03P",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.242838+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_sim_1",
+        "state": "F SFR",
+        "attributes": {
+          "carrier name": "F SFR",
+          "iso country code": "fr",
+          "icon": "mdi:sim",
+          "friendly_name": "BV9700Pro SIM 1"
+        },
+        "last_changed": "2022-07-11T15:43:07.492386+00:00",
+        "last_updated": "2022-07-11T15:43:07.492386+00:00",
+        "context": {
+          "id": "01G7PYVD74T3EQDWMDKPZ51DZH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.243164+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_sim_2",
+        "state": "Unavailable",
+        "attributes": {
+          "icon": "mdi:sim",
+          "friendly_name": "BV9700Pro SIM 2"
+        },
+        "last_changed": "2022-07-11T15:43:07.492452+00:00",
+        "last_updated": "2022-07-11T15:43:07.492452+00:00",
+        "context": {
+          "id": "01G7PYVD74JAH0GDW0MHP69QA2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.243459+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_pressure_sensor",
+        "state": "1001.0",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "hPa",
+          "device_class": "pressure",
+          "icon": "mdi:gauge",
+          "friendly_name": "BV9700Pro Pressure Sensor"
+        },
+        "last_changed": "2022-07-11T15:43:07.492521+00:00",
+        "last_updated": "2022-07-11T15:43:07.492521+00:00",
+        "context": {
+          "id": "01G7PYVD74SY4PF5JEAYNSA0JJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.243768+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_internal_storage",
+        "state": "50",
+        "attributes": {
+          "state_class": "measurement",
+          "Free internal storage": "54GB",
+          "Total internal storage": "109GB",
+          "unit_of_measurement": "%",
+          "icon": "mdi:harddisk",
+          "friendly_name": "BV9700Pro Internal Storage"
+        },
+        "last_changed": "2022-07-11T15:43:07.492587+00:00",
+        "last_updated": "2022-07-11T15:43:07.492587+00:00",
+        "context": {
+          "id": "01G7PYVD74QFN7N4383GQ5M4W9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.244088+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_external_storage",
+        "state": "0",
+        "attributes": {
+          "state_class": "measurement",
+          "free_external_storage": "No SD Card",
+          "total_external_storage": "No SD Card",
+          "unit_of_measurement": "%",
+          "icon": "mdi:micro-sd",
+          "friendly_name": "BV9700Pro External Storage"
+        },
+        "last_changed": "2022-07-11T15:43:07.492652+00:00",
+        "last_updated": "2022-07-11T15:43:07.492652+00:00",
+        "context": {
+          "id": "01G7PYVD74MYGCF9396JS81WKC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.244411+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.bv9700pro_current_time_zone",
+        "state": "Central European Summer Time",
+        "attributes": {
+          "in_daylight_time": true,
+          "time_zone_id": "Europe/Paris",
+          "time_zone_short": "GMT+02:00",
+          "uses_daylight_time": true,
+          "utc_offset": 7200000,
+          "icon": "mdi:map-clock",
+          "friendly_name": "BV9700Pro Current Time Zone"
+        },
+        "last_changed": "2022-07-11T15:43:07.492715+00:00",
+        "last_updated": "2022-07-11T15:43:07.492715+00:00",
+        "context": {
+          "id": "01G7PYVD74FC13537SC98GPRVK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.244788+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_app_inactive",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:timer-outline",
+          "friendly_name": "BV9700Pro App Inactive"
+        },
+        "last_changed": "2022-07-11T15:43:07.493080+00:00",
+        "last_updated": "2022-07-11T15:43:07.493080+00:00",
+        "context": {
+          "id": "01G7PYVD75FFR5XQX3QF3JPPT6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.246474+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_headphones",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:headphones-off",
+          "friendly_name": "BV9700Pro Headphones"
+        },
+        "last_changed": "2022-07-11T15:43:07.493140+00:00",
+        "last_updated": "2022-07-11T15:43:07.493140+00:00",
+        "context": {
+          "id": "01G7PYVD75AW5M37MJ4CZC85MD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.246751+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_mic_muted",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:microphone",
+          "friendly_name": "BV9700Pro Mic Muted"
+        },
+        "last_changed": "2022-07-11T15:43:07.493200+00:00",
+        "last_updated": "2022-07-11T15:43:07.493200+00:00",
+        "context": {
+          "id": "01G7PYVD75M541VPBGEC4ES7BF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.247026+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_speakerphone",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:volume-off",
+          "friendly_name": "BV9700Pro Speakerphone"
+        },
+        "last_changed": "2022-07-11T15:43:07.493261+00:00",
+        "last_updated": "2022-07-11T15:43:07.493261+00:00",
+        "context": {
+          "id": "01G7PYVD75PKEMYDP6XFES8R84",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.247303+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_bluetooth_state",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:bluetooth-off",
+          "friendly_name": "BV9700Pro Bluetooth State"
+        },
+        "last_changed": "2022-07-11T15:43:07.493591+00:00",
+        "last_updated": "2022-07-11T15:43:07.493591+00:00",
+        "context": {
+          "id": "01G7PYVD75D8ECB0D87PYXSBCX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.247863+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_device_secure",
+        "state": "on",
+        "attributes": {
+          "icon": "mdi:cellphone-key",
+          "friendly_name": "BV9700Pro Device Secure"
+        },
+        "last_changed": "2022-07-11T15:43:07.493662+00:00",
+        "last_updated": "2022-07-11T15:43:07.493662+00:00",
+        "context": {
+          "id": "01G7PYVD75NFVAN06DVN1J5BCY",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.249871+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_keyguard_secure",
+        "state": "on",
+        "attributes": {
+          "icon": "mdi:cellphone-key",
+          "friendly_name": "BV9700Pro Keyguard Secure"
+        },
+        "last_changed": "2022-07-11T15:43:07.493731+00:00",
+        "last_updated": "2022-07-11T15:43:07.493731+00:00",
+        "context": {
+          "id": "01G7PYVD75DYWSX4DPN6AFWWKH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.250251+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_high_accuracy_mode",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:crosshairs-gps",
+          "friendly_name": "BV9700Pro High Accuracy Mode"
+        },
+        "last_changed": "2022-07-11T15:43:07.493798+00:00",
+        "last_updated": "2022-07-11T15:43:07.493798+00:00",
+        "context": {
+          "id": "01G7PYVD752TTEEPSEAAVTXE10",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.250612+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_mobile_data",
+        "state": "on",
+        "attributes": {
+          "icon": "mdi:signal",
+          "friendly_name": "BV9700Pro Mobile Data"
+        },
+        "last_changed": "2022-07-11T15:43:07.493859+00:00",
+        "last_updated": "2022-07-11T15:43:07.493859+00:00",
+        "context": {
+          "id": "01G7PYVD759N929TS1YCQE35X0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.250910+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_mobile_data_roaming",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:toggle-switch-off",
+          "friendly_name": "BV9700Pro Mobile Data Roaming"
+        },
+        "last_changed": "2022-07-11T15:43:07.493919+00:00",
+        "last_updated": "2022-07-11T15:43:07.493919+00:00",
+        "context": {
+          "id": "01G7PYVD75ET4F453KTGVHEZBF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.251194+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.bv9700pro_doze_mode",
+        "state": "off",
+        "attributes": {
+          "ignoring_battery_optimizations": true,
+          "icon": "mdi:sleep-off",
+          "friendly_name": "BV9700Pro Doze Mode"
+        },
+        "last_changed": "2022-07-11T16:08:51.870193+00:00",
+        "last_updated": "2022-07-11T16:08:51.870193+00:00",
+        "context": {
+          "id": "01G7Q0AHCY1A6Y9BNF1QW2GXVC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-11T16:18:05.251483+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.ssh_web_terminal_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "11.0.1",
+          "in_progress": false,
+          "latest_version": "11.0.1",
+          "release_summary": null,
+          "release_url": null,
+          "skipped_version": null,
+          "title": "SSH & Web Terminal",
+          "entity_picture": "/api/hassio/addons/a0d7b954_ssh/icon",
+          "friendly_name": "SSH & Web Terminal: Update",
+          "supported_features": 25
+        },
+        "last_changed": "2022-07-10T06:44:48.196371+00:00",
+        "last_updated": "2022-07-10T06:44:48.196371+00:00",
+        "context": {
+          "id": "01G7KDMZY4APVBZYHVRFWWXT1W",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-10T06:49:20.694019+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alerte_cartouche_imprimante",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-07-10T10:26:28.303204+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1657448736304",
+          "friendly_name": "Alerte cartouche imprimante"
+        },
+        "last_changed": "2022-07-10T10:26:22.189236+00:00",
+        "last_updated": "2022-07-10T10:26:28.308253+00:00",
+        "context": {
+          "id": "01G7KTAWAE99XJTHXZY6MYDPHA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-10T10:26:46.566780+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.backup",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-07-12T11:15:32.239769+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1657624441345",
+          "friendly_name": "Backup"
+        },
+        "last_changed": "2022-07-12T11:14:02.595673+00:00",
+        "last_updated": "2022-07-12T11:15:32.242643+00:00",
+        "context": {
+          "id": "01G7S1Y58F86GG5PDZ9YJ0N09Q",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-07-12T11:29:15.450859+00:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "name": "Salon",
+        "id": "salon",
+        "picture": null
+      },
+      {
+        "name": "Cuisine",
+        "id": "cuisine",
+        "picture": null
+      },
+      {
+        "name": "Chambre",
+        "id": "chambre",
+        "picture": null
+      },
+      {
+        "name": "Freebox Player",
+        "id": "freebox_player",
+        "picture": null
+      }
+    ]
+  }
+}
